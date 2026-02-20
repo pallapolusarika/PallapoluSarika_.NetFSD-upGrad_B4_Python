@@ -1,0 +1,53 @@
+
+body {
+    background-color: #f2f2f2;
+    font-family: Arial, sans-serif;
+}
+
+
+.card {
+    width: 300px;
+    margin: 80px auto;        /* Margin (outside spacing) */
+    padding: 20px;            /* Padding (inside spacing) */
+    border: 2px solid #333;   /* Border */
+    border-radius: 10px;      /* Rounded corners */
+    background-color: white;
+    text-align: center;       /* Text alignment */
+}
+
+
+.card h2 {
+    font-size: 24px;
+    font-weight: bold;
+    letter-spacing: 1px;
+    text-decoration: underline;   /* Text decoration */
+}
+
+
+.card h4 {
+    color: gray;
+    font-weight: normal;
+    margin-bottom: 10px;
+}
+
+
+.card p {
+    font-size: 14px;
+    line-height: 1.6;         /* Typography enhancement */
+}
+
+
+button {
+    margin-top: 15px;
+    padding: 8px 15px;
+    background-color: blue;
+    color: white;
+    border: none;
+    border-radius: 5px;
+}
+
+
+button:hover {
+    background-color: darkblue;
+    cursor: pointer;
+}

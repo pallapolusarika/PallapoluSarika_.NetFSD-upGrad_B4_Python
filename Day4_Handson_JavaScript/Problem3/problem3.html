@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Simple Discount Calculator</title>
+</head>
+<body>
+
+<h2>Simple Discount Calculator</h2>
+
+<script>
+
+// Hardcoded purchase amount
+let amount = 4500;
+
+let discount = 0;
+let finalAmount = 0;
+
+// Apply discount rules
+if (amount >= 5000) {
+    discount = amount * 0.20;   // 20% discount
+}
+else if (amount >= 3000) {
+    discount = amount * 0.10;   // 10% discount
+}
+else {
+    discount = 0;               // No discount
+}
+
+// Calculate final payable amount
+finalAmount = amount - discount;
+
+// Display results
+document.write("Purchase Amount: " + amount + "<br>");
+document.write("Discount Amount: " + discount + "<br>");
+document.write("Final Payable Amount: " + finalAmount);
+
+</script>
+
+</body>
+</html>

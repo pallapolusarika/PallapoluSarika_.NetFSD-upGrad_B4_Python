@@ -1,0 +1,32 @@
+Problem 4: Multi-Page Website with Breadcrumb Navigation (Level-2)
+Scenario
+A training portal website has multiple levels of pages and users often get confused about where they are. The company wants breadcrumbs for better navigation.
+📌 Requirements
+Pages:
+•	Home
+•	Courses
+•	Web Development
+•	HTML Course
+Implement:
+•	<nav> for main menu
+•	Breadcrumb navigation using anchor tags
+Example:
+Home > Courses > Web Development > HTML
+Use:
+•	Hierarchical linking
+•	Relative paths
+Breadcrumb should update based on page hierarchy
+
+🛠️ Technical Constraints
+•	HTML5 only
+•	No CSS frameworks
+•	Semantic elements preferred
+
+🎯 Learning Outcome
+Learners should be able to:
+•	Breadcrumbs must reflect correct page structure
+•	Navigation must work without broken links
+•	Clear hierarchy in folder structure
+•	Design hierarchical navigation
+•	Implement breadcrumbs
+•	Understand real-world website structure

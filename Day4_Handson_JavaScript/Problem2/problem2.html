@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Student Grade Evaluator</title>
+</head>
+<body>
+
+<h2>Student Grade Evaluator</h2>
+
+<script>
+
+let input = prompt("Enter student's marks:");
+let marks = Number(input);
+
+if (input === null) {
+    document.write("null");
+}
+else if (input.trim() === "") {
+    document.write("null");
+}
+else if (isNaN(marks)) {
+    document.write("Invalid Input");
+}
+else if (marks < 0 || marks > 100) {
+    document.write("Invalid Marks");
+}
+else if (marks >= 75) {
+    document.write("Grade: A");
+}
+else if (marks >= 60) {
+    document.write("Grade: B");
+}
+else if (marks >= 40) {
+    document.write("Grade: C");
+}
+else {
+    document.write("Grade: Fail");
+}
+
+</script>
+
+</body>
+</html>

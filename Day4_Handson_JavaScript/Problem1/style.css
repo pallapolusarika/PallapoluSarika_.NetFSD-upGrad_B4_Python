@@ -1,0 +1,46 @@
+/* Desktop Styles */
+
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: lightblue;
+    text-align: center;
+}
+
+.navbar {
+    display: flex;
+    justify-content: center;
+    background-color: navy;
+}
+
+.navbar a {
+    color: white;
+    padding: 15px;
+    text-decoration: none;
+}
+
+.content {
+    padding: 20px;
+    font-size: 18px;
+}
+
+/* Mobile Styles */
+
+@media (max-width: 600px) {
+
+    body {
+        background-color: lightgreen;
+    }
+
+    .content {
+        font-size: 14px;
+    }
+
+    .navbar {
+        flex-direction: column;
+    }
+
+    .navbar a {
+        border-top: 1px solid white;
+    }
+}
