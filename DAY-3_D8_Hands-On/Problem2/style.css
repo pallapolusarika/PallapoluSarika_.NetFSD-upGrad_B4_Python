@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 50px;
+    transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+/* Default Light Theme */
+.light {
+    background-color: white;
+    color: black;
+}
+
+/* Dark Theme */
+.dark {
+    background-color: #222;
+    color: white;
+}
+
+button {
+    padding: 10px 20px;
+    cursor: pointer;
+}

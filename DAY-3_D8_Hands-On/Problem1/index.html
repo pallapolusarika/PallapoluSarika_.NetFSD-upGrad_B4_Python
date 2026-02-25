@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title> Interactive Feedback Button </title>
+  <style> body {
+  font-family: Arial, sans-serif;
+  text-align : center;
+  margin-top: 100px;
+  background-color: pink;
+}
+h2 {
+  color:#333;
+}
+button {
+  padding:10px 20px;
+  font-size:16px;
+  cursor:pointer;
+  background-color:#blue;
+  color:Black;
+  border-radius:5px;
+}
+button:hover {
+background-color: green;
+}
+#message {
+  margin-top:20px;
+  font-size:18px;
+  color:orange;
+}
+  </style>
+</head>
+<body>
+  <h2>Startup Feedback Page</h2>
+  <textarea id="feedbackText" 
+          placeholder="Enter your feedback here..."
+          style="width:300px; height:100px; padding:10px;"></textarea>
+<br><br>
+<button id="feedbackBtn">Submit Feedback</button>
+<div id="message"></div>
+<script>
+    const feedbackButton = document.getElementById("feedbackBtn");
+    const feedbackText = document.getElementById("feedbackText");
+    const messageDiv = document.getElementById("message");
+    feedbackButton.addEventListener("click", function() {
+    const userFeedback = feedbackText.value.trim();
+    if (userFeedback === "") {
+    messageDiv.style.color = "red";
+    messageDiv.textContent = "⚠ Please enter feedback before submitting.";
+} else {
+    messageDiv.style.color = "green";
+    messageDiv.textContent =
+   "Thank you! Your feedback has been submitted successfully.";
+    feedbackText.value = ""; // clear text area
+ }
+    });
+</script></body>
+</html>

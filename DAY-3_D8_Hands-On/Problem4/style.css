@@ -1,0 +1,16 @@
+body {
+    font-family: Arial;
+    background-color: #f4f4f4;
+}
+
+.container {
+    width: 400px;
+    margin: 50px auto;
+}
+
+li {
+    padding: 8px;
+    margin: 5px 0;
+    background: white;
+    border-radius: 5px;
+}
