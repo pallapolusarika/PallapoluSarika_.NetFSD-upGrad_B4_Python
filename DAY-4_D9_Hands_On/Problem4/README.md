@@ -1,26 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>jQuery Alert App</title>
 
-Level-2 Problem 4: E-Commerce Landing Page with Advanced Features
-Scenario:
-Build a professional e-commerce landing page with hero section, product carousel, offcanvas menu, and themed design.
-📌 Requirements
-- Use responsive navbar with offcanvas menu.
-- Implement Bootstrap Carousel for featured products.
-- Create multiple sections using grid system.
-- Use forms for newsletter subscription.
-- Apply Bootstrap utilities for display control and alignment.
-- Customize theme using Bootstrap variables or custom overrides.
-🛠️ Technical Constraints
-- Bootstrap 5 CDN required.
-- Proper responsive behavior implementation.
-- Offcanvas and Carousel must function correctly.
-- Maintain consistent color theme.
-Expectations:
-- Professional UI design.
-- Smooth functioning carousel and offcanvas menu.
-- Responsive layout for all devices.
+  
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
 
-🎯 Learning Outcome
-- Implement advanced Bootstrap components.
-- Understand responsive behavior and display utilities.
-- Apply custom theming concepts.
+    <script>
+        $(document).ready(function() {
+            $("#alertBtn").click(function() {
+                alert("Hello! Button was clicked successfully.");
+            });
+        });
+    </script>
+</head>
 
+<body>
+
+    <h2>jQuery Alert Example</h2>
+    <button id="alertBtn">Click Me</button>
+
+</body>
+</html>

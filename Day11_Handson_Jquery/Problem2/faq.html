@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Improved FAQ Section</title>
+
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+
+    <style>
+        body {
+            font-family: Arial;
+            padding: 40px;
+        }
+
+        #faqSection {
+            width: 500px;
+        }
+
+        .faq-item {
+            margin-bottom: 10px;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+            overflow: hidden;
+        }
+
+        .question {
+            background-color: #f0f0f0;
+            padding: 12px;
+            cursor: pointer;
+            font-weight: bold;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .answer {
+            display: none;
+            padding: 12px;
+            background-color: #fafafa;
+        }
+
+        .highlight {
+            background-color: #007BFF;
+            color: white;
+        }
+
+        .icon {
+            font-size: 18px;
+            font-weight: bold;
+        }
+    </style>
+</head>
+
+<body>
+
+<h2>Frequently Asked Questions</h2>
+
+<div id="faqSection">
+
+    <div class="faq-item">
+        <div class="question">
+            <span>What is jQuery?</span>
+            <span class="icon">+</span>
+        </div>
+        <div class="answer">jQuery is a JavaScript library used for DOM manipulation.</div>
+    </div>
+
+    <div class="faq-item">
+        <div class="question">
+            <span>Why use jQuery?</span>
+            <span class="icon">+</span>
+        </div>
+        <div class="answer">It simplifies JavaScript and provides built-in effects.</div>
+    </div>
+
+    <div class="faq-item">
+        <div class="question">
+            <span>What is slideToggle()?</span>
+            <span class="icon">+</span>
+        </div>
+        <div class="answer">slideToggle() smoothly shows or hides content.</div>
+    </div>
+
+    <div class="faq-item">
+        <div class="question">
+            <span>What is DOM manipulation?</span>
+            <span class="icon">+</span>
+        </div>
+        <div class="answer">Changing HTML content dynamically.</div>
+    </div>
+
+    <div class="faq-item">
+        <div class="question">
+            <span>What is event handling?</span>
+            <span class="icon">+</span>
+        </div>
+        <div class="answer">Running code when a user interacts with elements.</div>
+    </div>
+
+</div>
+
+<script>
+$(document).ready(function() {
+
+    $(".question").click(function() {
+
+        if ($(this).next(".answer").is(":visible")) {
+
+            $(this).removeClass("highlight");
+            $(this).next(".answer").slideUp();
+            $(this).find(".icon").text("+");
+
+        } else {
+
+            $(".answer").slideUp();
+            $(".question").removeClass("highlight");
+            $(".icon").text("+");
+
+            $(this).addClass("highlight");
+            $(this).next(".answer").slideDown();
+            $(this).find(".icon").text("−");
+        }
+
+    });
+
+});
+</script>
+
+</body>
+</html>

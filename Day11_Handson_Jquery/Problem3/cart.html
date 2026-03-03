@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Product List with Cart Counter</title>
+
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+
+    <style>
+        body {
+            font-family: Arial;
+            padding: 40px;
+        }
+
+        #cart {
+            font-size: 20px;
+            margin-bottom: 20px;
+            font-weight: bold;
+        }
+
+        #productList {
+            width: 400px;
+        }
+
+        .product {
+            border: 1px solid #ddd;
+            padding: 15px;
+            margin-bottom: 10px;
+            border-radius: 5px;
+        }
+
+        .message {
+            color: green;
+            margin-left: 10px;
+            font-size: 14px;
+        }
+
+        button {
+            margin-top: 8px;
+            padding: 6px 10px;
+            cursor: pointer;
+        }
+
+        button:disabled {
+            background-color: #ccc;
+            cursor: not-allowed;
+        }
+    </style>
+</head>
+
+<body>
+
+<div id="cart">
+    Cart Items: <span id="cartCount">0</span>
+</div>
+
+<div id="productList">
+
+    <div class="product">
+        <h4>Product 1</h4>
+        <button class="addBtn">Add to Cart</button>
+        <span class="message"></span>
+    </div>
+
+    <div class="product">
+        <h4>Product 2</h4>
+        <button class="addBtn">Add to Cart</button>
+        <span class="message"></span>
+    </div>
+
+    <div class="product">
+        <h4>Product 3</h4>
+        <button class="addBtn">Add to Cart</button>
+        <span class="message"></span>
+    </div>
+
+    <div class="product">
+        <h4>Product 4</h4>
+        <button class="addBtn">Add to Cart</button>
+        <span class="message"></span>
+    </div>
+
+</div>
+
+<script>
+$(document).ready(function() {
+
+    let count = 0;
+
+    $("#productList").on("click", ".addBtn", function() {
+
+        count++;
+
+        $("#cartCount").text(count);
+
+        $(this).prop("disabled", true);
+
+        $(this).attr("data-added", "true");
+
+        $(this).siblings(".message").text("Added to Cart!");
+
+    });
+
+});
+</script>
+
+</body>
+</html>

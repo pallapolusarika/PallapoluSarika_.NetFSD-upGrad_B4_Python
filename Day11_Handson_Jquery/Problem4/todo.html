@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Interactive To-Do List</title>
+
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+
+    <style>
+        body {
+            font-family: Arial;
+            padding: 40px;
+        }
+
+        #todoContainer {
+            width: 400px;
+        }
+
+        input {
+            width: 70%;
+            padding: 6px;
+        }
+
+        button {
+            padding: 6px 10px;
+            margin-left: 5px;
+            cursor: pointer;
+        }
+
+        ul {
+            list-style: none;
+            padding: 0;
+            margin-top: 15px;
+        }
+
+        li {
+            padding: 8px;
+            margin-bottom: 5px;
+            border: 1px solid #ddd;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .completed {
+            text-decoration: line-through;
+            color: gray;
+        }
+
+        .counts {
+            margin-top: 15px;
+            font-weight: bold;
+        }
+    </style>
+</head>
+
+<body>
+
+<h2>To-Do List Application</h2>
+
+<div id="todoContainer">
+
+    <input type="text" id="taskInput" placeholder="Enter new task">
+    <button id="addBtn">Add</button>
+
+    <ul id="taskList"></ul>
+
+    <div class="counts">
+        Total Tasks: <span id="totalCount">0</span> |
+        Completed Tasks: <span id="completedCount">0</span>
+    </div>
+
+</div>
+
+<script>
+$(document).ready(function() {
+
+    function updateCounts() {
+        let total = $("#taskList li").length;
+        let completed = $("#taskList li .completed").length;
+
+        $("#totalCount").text(total);
+        $("#completedCount").text(completed);
+    }
+
+    $("#addBtn").on("click", function() {
+
+        let taskText = $("#taskInput").val().trim();
+
+        if (taskText !== "") {
+
+            let newTask = `
+                <li>
+                    <span class="taskText">${taskText}</span>
+                    <div>
+                        <button class="completeBtn">Complete</button>
+                        <button class="deleteBtn">Delete</button>
+                    </div>
+                </li>
+            `;
+
+            $("#taskList").append(newTask);
+            $("#taskInput").val("");
+            updateCounts();
+        }
+    });
+
+    $("#taskList").on("click", ".completeBtn", function() {
+        $(this).closest("li").find(".taskText").toggleClass("completed");
+        updateCounts();
+    });
+
+    $("#taskList").on("click", ".deleteBtn", function() {
+        $(this).closest("li").remove();
+        updateCounts();
+    });
+
+});
+</script>
+
+</body>
+</html>

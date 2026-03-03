@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Student Feedback Form</title>
+
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+
+    <style>
+        body {
+            font-family: Arial;
+            padding: 40px;
+        }
+
+        form {
+            width: 300px;
+        }
+
+        input, select, textarea {
+            width: 100%;
+            margin-bottom: 10px;
+            padding: 6px;
+        }
+
+        #errorMessage {
+            color: red;
+            margin-top: 10px;
+        }
+
+        #successMessage {
+            color: green;
+            margin-top: 10px;
+        }
+    </style>
+</head>
+
+<body>
+
+<h2>Student Feedback Form</h2>
+
+<form id="feedbackForm">
+    <input type="text" id="name" placeholder="Enter your Name">
+    <input type="email" id="email" placeholder="Enter your Email">
+
+    <select id="rating">
+        <option value="">Select Course Rating</option>
+        <option value="Excellent">Excellent</option>
+        <option value="Good">Good</option>
+        <option value="Average">Average</option>
+    </select>
+
+    <textarea id="comments" placeholder="Enter your Comments"></textarea>
+
+    <button type="submit">Submit</button>
+</form>
+
+<div id="errorMessage"></div>
+<div id="successMessage"></div>
+
+<script>
+$(document).ready(function() {
+
+    $("#feedbackForm").submit(function(event) {
+
+        event.preventDefault();
+
+        let name = $("#name").val().trim();
+        let email = $("#email").val().trim();
+
+        $("#errorMessage").text("");
+        $("#successMessage").text("");
+
+        if (name === "" && email === "") {
+            $("#errorMessage").text("Name and Email are required.");
+        }
+        else if (name === "") {
+            $("#errorMessage").text("Name is required.");
+        }
+        else if (email === "") {
+            $("#errorMessage").text("Email is required.");
+        }
+        else {
+            $("#successMessage").text("Feedback submitted successfully.");
+            $("#feedbackForm")[0].reset();
+        }
+
+    });
+
+});
+</script>
+
+</body>
+</html>
