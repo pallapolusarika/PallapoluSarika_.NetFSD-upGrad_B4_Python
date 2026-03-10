@@ -1,4 +1,4 @@
-﻿Level - 1 Problem 1: Student Grade Evaluator
+﻿/*Level - 1 Problem 1: Student Grade Evaluator
 Scenario
 You are developing a console-based application in .NET 8 for a school. The application should evaluate a student’s marks and assign a grade based on predefined rules.
 Requirements
@@ -20,11 +20,10 @@ Grade: B
 Expectations
 Program should correctly evaluate grade and handle edge cases like marks below 0 or above 100.
 Learning Outcome
-Understand variables, data types, input/output handling and if-else control statements in C#.
+Understand variables, data types, input/output handling and if-else control statements in C#.*/
 
 
 
-// See https://aka.ms/new-console-template for more information
 using System;
 
 class Program

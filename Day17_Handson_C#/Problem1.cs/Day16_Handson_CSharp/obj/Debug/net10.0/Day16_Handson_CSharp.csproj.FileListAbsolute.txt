@@ -1,0 +1,14 @@
+C:\Users\rishi\source\repos\Day16_Handson_CSharp\Day16_Handson_CSharp\obj\Debug\net10.0\Day16_Handson_CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rishi\source\repos\Day16_Handson_CSharp\Day16_Handson_CSharp\obj\Debug\net10.0\Day16_Handson_CSharp.AssemblyInfoInputs.cache
+C:\Users\rishi\source\repos\Day16_Handson_CSharp\Day16_Handson_CSharp\obj\Debug\net10.0\Day16_Handson_CSharp.AssemblyInfo.cs
+C:\Users\rishi\source\repos\Day16_Handson_CSharp\Day16_Handson_CSharp\obj\Debug\net10.0\Day16_Handson_CSharp.csproj.CoreCompileInputs.cache
+C:\Users\rishi\source\repos\Day16_Handson_CSharp\Day16_Handson_CSharp\bin\Debug\net10.0\Day16_Handson_CSharp.exe
+C:\Users\rishi\source\repos\Day16_Handson_CSharp\Day16_Handson_CSharp\bin\Debug\net10.0\Day16_Handson_CSharp.deps.json
+C:\Users\rishi\source\repos\Day16_Handson_CSharp\Day16_Handson_CSharp\bin\Debug\net10.0\Day16_Handson_CSharp.runtimeconfig.json
+C:\Users\rishi\source\repos\Day16_Handson_CSharp\Day16_Handson_CSharp\bin\Debug\net10.0\Day16_Handson_CSharp.dll
+C:\Users\rishi\source\repos\Day16_Handson_CSharp\Day16_Handson_CSharp\bin\Debug\net10.0\Day16_Handson_CSharp.pdb
+C:\Users\rishi\source\repos\Day16_Handson_CSharp\Day16_Handson_CSharp\obj\Debug\net10.0\Day16_Handson_CSharp.dll
+C:\Users\rishi\source\repos\Day16_Handson_CSharp\Day16_Handson_CSharp\obj\Debug\net10.0\refint\Day16_Handson_CSharp.dll
+C:\Users\rishi\source\repos\Day16_Handson_CSharp\Day16_Handson_CSharp\obj\Debug\net10.0\Day16_Handson_CSharp.pdb
+C:\Users\rishi\source\repos\Day16_Handson_CSharp\Day16_Handson_CSharp\obj\Debug\net10.0\Day16_Handson_CSharp.genruntimeconfig.cache
+C:\Users\rishi\source\repos\Day16_Handson_CSharp\Day16_Handson_CSharp\obj\Debug\net10.0\ref\Day16_Handson_CSharp.dll
