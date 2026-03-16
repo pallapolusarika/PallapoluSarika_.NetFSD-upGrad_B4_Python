@@ -1,0 +1,14 @@
+C:\Users\rishi\source\repos\ConsoleApp20\ConsoleApp20\bin\Debug\net10.0\ConsoleApp20.exe
+C:\Users\rishi\source\repos\ConsoleApp20\ConsoleApp20\bin\Debug\net10.0\ConsoleApp20.deps.json
+C:\Users\rishi\source\repos\ConsoleApp20\ConsoleApp20\bin\Debug\net10.0\ConsoleApp20.runtimeconfig.json
+C:\Users\rishi\source\repos\ConsoleApp20\ConsoleApp20\bin\Debug\net10.0\ConsoleApp20.dll
+C:\Users\rishi\source\repos\ConsoleApp20\ConsoleApp20\bin\Debug\net10.0\ConsoleApp20.pdb
+C:\Users\rishi\source\repos\ConsoleApp20\ConsoleApp20\obj\Debug\net10.0\ConsoleApp20.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rishi\source\repos\ConsoleApp20\ConsoleApp20\obj\Debug\net10.0\ConsoleApp20.AssemblyInfoInputs.cache
+C:\Users\rishi\source\repos\ConsoleApp20\ConsoleApp20\obj\Debug\net10.0\ConsoleApp20.AssemblyInfo.cs
+C:\Users\rishi\source\repos\ConsoleApp20\ConsoleApp20\obj\Debug\net10.0\ConsoleApp20.csproj.CoreCompileInputs.cache
+C:\Users\rishi\source\repos\ConsoleApp20\ConsoleApp20\obj\Debug\net10.0\ConsoleApp20.dll
+C:\Users\rishi\source\repos\ConsoleApp20\ConsoleApp20\obj\Debug\net10.0\refint\ConsoleApp20.dll
+C:\Users\rishi\source\repos\ConsoleApp20\ConsoleApp20\obj\Debug\net10.0\ConsoleApp20.pdb
+C:\Users\rishi\source\repos\ConsoleApp20\ConsoleApp20\obj\Debug\net10.0\ConsoleApp20.genruntimeconfig.cache
+C:\Users\rishi\source\repos\ConsoleApp20\ConsoleApp20\obj\Debug\net10.0\ref\ConsoleApp20.dll

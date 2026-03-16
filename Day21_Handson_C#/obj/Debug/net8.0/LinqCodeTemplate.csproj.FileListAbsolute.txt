@@ -1,0 +1,28 @@
+D:\Corporate\Enlink\CTS\Hands On Activities\Week-5\Week-5 Day-3\template\LinqCodeTemplate\LinqCodeTemplate\bin\Debug\net8.0\LinqCodeTemplate.exe
+D:\Corporate\Enlink\CTS\Hands On Activities\Week-5\Week-5 Day-3\template\LinqCodeTemplate\LinqCodeTemplate\bin\Debug\net8.0\LinqCodeTemplate.deps.json
+D:\Corporate\Enlink\CTS\Hands On Activities\Week-5\Week-5 Day-3\template\LinqCodeTemplate\LinqCodeTemplate\bin\Debug\net8.0\LinqCodeTemplate.runtimeconfig.json
+D:\Corporate\Enlink\CTS\Hands On Activities\Week-5\Week-5 Day-3\template\LinqCodeTemplate\LinqCodeTemplate\bin\Debug\net8.0\LinqCodeTemplate.dll
+D:\Corporate\Enlink\CTS\Hands On Activities\Week-5\Week-5 Day-3\template\LinqCodeTemplate\LinqCodeTemplate\bin\Debug\net8.0\LinqCodeTemplate.pdb
+D:\Corporate\Enlink\CTS\Hands On Activities\Week-5\Week-5 Day-3\template\LinqCodeTemplate\LinqCodeTemplate\obj\Debug\net8.0\LinqCodeTemplate.GeneratedMSBuildEditorConfig.editorconfig
+D:\Corporate\Enlink\CTS\Hands On Activities\Week-5\Week-5 Day-3\template\LinqCodeTemplate\LinqCodeTemplate\obj\Debug\net8.0\LinqCodeTemplate.AssemblyInfoInputs.cache
+D:\Corporate\Enlink\CTS\Hands On Activities\Week-5\Week-5 Day-3\template\LinqCodeTemplate\LinqCodeTemplate\obj\Debug\net8.0\LinqCodeTemplate.AssemblyInfo.cs
+D:\Corporate\Enlink\CTS\Hands On Activities\Week-5\Week-5 Day-3\template\LinqCodeTemplate\LinqCodeTemplate\obj\Debug\net8.0\LinqCodeTemplate.csproj.CoreCompileInputs.cache
+D:\Corporate\Enlink\CTS\Hands On Activities\Week-5\Week-5 Day-3\template\LinqCodeTemplate\LinqCodeTemplate\obj\Debug\net8.0\LinqCodeTemplate.dll
+D:\Corporate\Enlink\CTS\Hands On Activities\Week-5\Week-5 Day-3\template\LinqCodeTemplate\LinqCodeTemplate\obj\Debug\net8.0\refint\LinqCodeTemplate.dll
+D:\Corporate\Enlink\CTS\Hands On Activities\Week-5\Week-5 Day-3\template\LinqCodeTemplate\LinqCodeTemplate\obj\Debug\net8.0\LinqCodeTemplate.pdb
+D:\Corporate\Enlink\CTS\Hands On Activities\Week-5\Week-5 Day-3\template\LinqCodeTemplate\LinqCodeTemplate\obj\Debug\net8.0\LinqCodeTemplate.genruntimeconfig.cache
+D:\Corporate\Enlink\CTS\Hands On Activities\Week-5\Week-5 Day-3\template\LinqCodeTemplate\LinqCodeTemplate\obj\Debug\net8.0\ref\LinqCodeTemplate.dll
+C:\Users\rishi\Downloads\LinqCodeTemplate (3)\LinqCodeTemplate\LinqCodeTemplate\bin\Debug\net8.0\LinqCodeTemplate.exe
+C:\Users\rishi\Downloads\LinqCodeTemplate (3)\LinqCodeTemplate\LinqCodeTemplate\bin\Debug\net8.0\LinqCodeTemplate.deps.json
+C:\Users\rishi\Downloads\LinqCodeTemplate (3)\LinqCodeTemplate\LinqCodeTemplate\bin\Debug\net8.0\LinqCodeTemplate.runtimeconfig.json
+C:\Users\rishi\Downloads\LinqCodeTemplate (3)\LinqCodeTemplate\LinqCodeTemplate\bin\Debug\net8.0\LinqCodeTemplate.dll
+C:\Users\rishi\Downloads\LinqCodeTemplate (3)\LinqCodeTemplate\LinqCodeTemplate\bin\Debug\net8.0\LinqCodeTemplate.pdb
+C:\Users\rishi\Downloads\LinqCodeTemplate (3)\LinqCodeTemplate\LinqCodeTemplate\obj\Debug\net8.0\LinqCodeTemplate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rishi\Downloads\LinqCodeTemplate (3)\LinqCodeTemplate\LinqCodeTemplate\obj\Debug\net8.0\LinqCodeTemplate.AssemblyInfoInputs.cache
+C:\Users\rishi\Downloads\LinqCodeTemplate (3)\LinqCodeTemplate\LinqCodeTemplate\obj\Debug\net8.0\LinqCodeTemplate.AssemblyInfo.cs
+C:\Users\rishi\Downloads\LinqCodeTemplate (3)\LinqCodeTemplate\LinqCodeTemplate\obj\Debug\net8.0\LinqCodeTemplate.csproj.CoreCompileInputs.cache
+C:\Users\rishi\Downloads\LinqCodeTemplate (3)\LinqCodeTemplate\LinqCodeTemplate\obj\Debug\net8.0\LinqCodeTemplate.dll
+C:\Users\rishi\Downloads\LinqCodeTemplate (3)\LinqCodeTemplate\LinqCodeTemplate\obj\Debug\net8.0\refint\LinqCodeTemplate.dll
+C:\Users\rishi\Downloads\LinqCodeTemplate (3)\LinqCodeTemplate\LinqCodeTemplate\obj\Debug\net8.0\LinqCodeTemplate.pdb
+C:\Users\rishi\Downloads\LinqCodeTemplate (3)\LinqCodeTemplate\LinqCodeTemplate\obj\Debug\net8.0\LinqCodeTemplate.genruntimeconfig.cache
+C:\Users\rishi\Downloads\LinqCodeTemplate (3)\LinqCodeTemplate\LinqCodeTemplate\obj\Debug\net8.0\ref\LinqCodeTemplate.dll
