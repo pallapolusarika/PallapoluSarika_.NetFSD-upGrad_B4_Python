@@ -1,0 +1,14 @@
+C:\Users\rishi\source\repos\ConsoleApp25\bin\Debug\net10.0\ConsoleApp25.exe
+C:\Users\rishi\source\repos\ConsoleApp25\bin\Debug\net10.0\ConsoleApp25.deps.json
+C:\Users\rishi\source\repos\ConsoleApp25\bin\Debug\net10.0\ConsoleApp25.runtimeconfig.json
+C:\Users\rishi\source\repos\ConsoleApp25\bin\Debug\net10.0\ConsoleApp25.dll
+C:\Users\rishi\source\repos\ConsoleApp25\bin\Debug\net10.0\ConsoleApp25.pdb
+C:\Users\rishi\source\repos\ConsoleApp25\obj\Debug\net10.0\ConsoleApp25.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rishi\source\repos\ConsoleApp25\obj\Debug\net10.0\ConsoleApp25.AssemblyInfoInputs.cache
+C:\Users\rishi\source\repos\ConsoleApp25\obj\Debug\net10.0\ConsoleApp25.AssemblyInfo.cs
+C:\Users\rishi\source\repos\ConsoleApp25\obj\Debug\net10.0\ConsoleApp25.csproj.CoreCompileInputs.cache
+C:\Users\rishi\source\repos\ConsoleApp25\obj\Debug\net10.0\ConsoleApp25.dll
+C:\Users\rishi\source\repos\ConsoleApp25\obj\Debug\net10.0\refint\ConsoleApp25.dll
+C:\Users\rishi\source\repos\ConsoleApp25\obj\Debug\net10.0\ConsoleApp25.pdb
+C:\Users\rishi\source\repos\ConsoleApp25\obj\Debug\net10.0\ConsoleApp25.genruntimeconfig.cache
+C:\Users\rishi\source\repos\ConsoleApp25\obj\Debug\net10.0\ref\ConsoleApp25.dll

@@ -29,14 +29,18 @@ namespace LinqCodeTemplate
         {
             Product product = new Product();
             var products = product.GetProducts();
+     //1.Write a LINQ query to search and display all products with category “FMCG”.
             var q1 = products.Where(p => p.ProCategory == "FMCG");
             foreach (var p in q1)
                 Console.WriteLine(p.ProCategory + " " + p.ProMrp);
+     //2.Write a LINQ query to search and display all products with category “Grain”.
             var q2 = products.Where(p => p.ProCategory == "Grain");
             foreach (var p in q2)
                 Console.WriteLine(p.ProCategory + " " + p.ProMrp);
+    //3.Write a LINQ query to sort products in ascending order by product code.
             var q3 = products.OrderBy(p => p.ProCategory);
-            var q4 = products.OrderBy(p => p.ProCategory);
+     //4.Write a LINQ query to sort products in ascending order by product Category.
+                        var q4 = products.OrderBy(p => p.ProCategory);
             var q5 = products.OrderBy(p => p.ProMrp);
             var q6 = products.OrderByDescending(p => p.ProMrp);
 
