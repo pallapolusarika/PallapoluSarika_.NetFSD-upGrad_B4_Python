@@ -1,0 +1,14 @@
+C:\Users\rishi\source\repos\ConsoleApp28\bin\Debug\net8.0\ConsoleApp28.exe
+C:\Users\rishi\source\repos\ConsoleApp28\bin\Debug\net8.0\ConsoleApp28.deps.json
+C:\Users\rishi\source\repos\ConsoleApp28\bin\Debug\net8.0\ConsoleApp28.runtimeconfig.json
+C:\Users\rishi\source\repos\ConsoleApp28\bin\Debug\net8.0\ConsoleApp28.dll
+C:\Users\rishi\source\repos\ConsoleApp28\bin\Debug\net8.0\ConsoleApp28.pdb
+C:\Users\rishi\source\repos\ConsoleApp28\obj\Debug\net8.0\ConsoleApp28.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rishi\source\repos\ConsoleApp28\obj\Debug\net8.0\ConsoleApp28.AssemblyInfoInputs.cache
+C:\Users\rishi\source\repos\ConsoleApp28\obj\Debug\net8.0\ConsoleApp28.AssemblyInfo.cs
+C:\Users\rishi\source\repos\ConsoleApp28\obj\Debug\net8.0\ConsoleApp28.csproj.CoreCompileInputs.cache
+C:\Users\rishi\source\repos\ConsoleApp28\obj\Debug\net8.0\ConsoleApp28.dll
+C:\Users\rishi\source\repos\ConsoleApp28\obj\Debug\net8.0\refint\ConsoleApp28.dll
+C:\Users\rishi\source\repos\ConsoleApp28\obj\Debug\net8.0\ConsoleApp28.pdb
+C:\Users\rishi\source\repos\ConsoleApp28\obj\Debug\net8.0\ConsoleApp28.genruntimeconfig.cache
+C:\Users\rishi\source\repos\ConsoleApp28\obj\Debug\net8.0\ref\ConsoleApp28.dll
