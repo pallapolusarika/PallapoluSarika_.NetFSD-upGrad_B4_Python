@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rishi\\source\\repos\\ConsoleApp37\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{179E7A49-C08F-038F-00BC-5559F28BCC53}|ConsoleApp37.csproj|c:\\users\\rishi\\source\\repos\\consoleapp37\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{179E7A49-C08F-038F-00BC-5559F28BCC53}|ConsoleApp37.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{179E7A49-C08F-038F-00BC-5559F28BCC53}|ConsoleApp37.csproj|c:\\users\\rishi\\source\\repos\\consoleapp37\\notificationfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{179E7A49-C08F-038F-00BC-5559F28BCC53}|ConsoleApp37.csproj|solutionrelative:notificationfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{179E7A49-C08F-038F-00BC-5559F28BCC53}|ConsoleApp37.csproj|c:\\users\\rishi\\source\\repos\\consoleapp37\\pushnotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{179E7A49-C08F-038F-00BC-5559F28BCC53}|ConsoleApp37.csproj|solutionrelative:pushnotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{179E7A49-C08F-038F-00BC-5559F28BCC53}|ConsoleApp37.csproj|c:\\users\\rishi\\source\\repos\\consoleapp37\\smsnotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{179E7A49-C08F-038F-00BC-5559F28BCC53}|ConsoleApp37.csproj|solutionrelative:smsnotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{179E7A49-C08F-038F-00BC-5559F28BCC53}|ConsoleApp37.csproj|c:\\users\\rishi\\source\\repos\\consoleapp37\\emailnotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{179E7A49-C08F-038F-00BC-5559F28BCC53}|ConsoleApp37.csproj|solutionrelative:emailnotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{179E7A49-C08F-038F-00BC-5559F28BCC53}|ConsoleApp37.csproj|c:\\users\\rishi\\source\\repos\\consoleapp37\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{179E7A49-C08F-038F-00BC-5559F28BCC53}|ConsoleApp37.csproj|solutionrelative:notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NotificationFactory.cs",
+              "DocumentMoniker": "C:\\Users\\rishi\\source\\repos\\ConsoleApp37\\NotificationFactory.cs",
+              "RelativeDocumentMoniker": "NotificationFactory.cs",
+              "ToolTip": "C:\\Users\\rishi\\source\\repos\\ConsoleApp37\\NotificationFactory.cs",
+              "RelativeToolTip": "NotificationFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T09:20:26.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PushNotification.cs",
+              "DocumentMoniker": "C:\\Users\\rishi\\source\\repos\\ConsoleApp37\\PushNotification.cs",
+              "RelativeDocumentMoniker": "PushNotification.cs",
+              "ToolTip": "C:\\Users\\rishi\\source\\repos\\ConsoleApp37\\PushNotification.cs",
+              "RelativeToolTip": "PushNotification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T09:18:06.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SMSNotification.cs",
+              "DocumentMoniker": "C:\\Users\\rishi\\source\\repos\\ConsoleApp37\\SMSNotification.cs",
+              "RelativeDocumentMoniker": "SMSNotification.cs",
+              "ToolTip": "C:\\Users\\rishi\\source\\repos\\ConsoleApp37\\SMSNotification.cs",
+              "RelativeToolTip": "SMSNotification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T09:16:24.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmailNotification.cs",
+              "DocumentMoniker": "C:\\Users\\rishi\\source\\repos\\ConsoleApp37\\EmailNotification.cs",
+              "RelativeDocumentMoniker": "EmailNotification.cs",
+              "ToolTip": "C:\\Users\\rishi\\source\\repos\\ConsoleApp37\\EmailNotification.cs",
+              "RelativeToolTip": "EmailNotification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T09:15:29.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rishi\\source\\repos\\ConsoleApp37\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\rishi\\source\\repos\\ConsoleApp37\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T09:11:46.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Notification.cs",
+              "DocumentMoniker": "C:\\Users\\rishi\\source\\repos\\ConsoleApp37\\Notification.cs",
+              "RelativeDocumentMoniker": "Notification.cs",
+              "ToolTip": "C:\\Users\\rishi\\source\\repos\\ConsoleApp37\\Notification.cs",
+              "RelativeToolTip": "Notification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T09:14:25.59Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
