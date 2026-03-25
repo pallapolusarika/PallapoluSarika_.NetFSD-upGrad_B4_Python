@@ -1,0 +1,162 @@
+/* Shared background for both signup and login */
+body {
+  background: linear-gradient(135deg, #1e3c72 0%, #2a5298 100%);
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  min-height: 100vh;
+}
+
+/* Centered white card for forms */
+#signup-view, #login-view {
+  background-color: #ffffff;
+  border-radius: 12px;
+  padding: 30px;
+  max-width: 500px;
+  margin: 60px auto;
+  box-shadow: 0 6px 20px rgba(0,0,0,0.25);
+}
+
+/* Headings */
+#signup-view h2, #login-view h2 {
+  color: #2a5298;
+  text-align: center;
+  margin-bottom: 20px;
+  font-weight: bold;
+}
+
+/* Labels */
+#signup-view .form-label, #login-view .form-label {
+  color: #333;
+  font-weight: 600;
+}
+
+/* Inputs */
+#signup-view .form-control, #login-view .form-control {
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  padding: 10px;
+}
+
+/* Buttons */
+#signup-view .btn-primary, #login-view .btn-success {
+  width: 100%;
+  font-size: 16px;
+  padding: 12px;
+  border-radius: 6px;
+  transition: all 0.3s ease;
+}
+
+#signup-view .btn-primary {
+  background-color: #2a5298;
+  border: none;
+}
+
+#signup-view .btn-primary:hover {
+  background-color: #1e3c72;
+}
+
+#login-view .btn-success {
+  background-color: #2a5298;
+  border: none;
+}
+
+#login-view .btn-success:hover {
+  background-color: #1e3c72;
+}
+
+/* 🔹 Dashboard & Employees sections */
+#dashboard-view, #employees-view {
+  background: linear-gradient(135deg, #1e3c72 0%, #2a5298 100%);
+  border-radius: 12px;
+  padding: 30px;
+  margin: 40px auto;
+  color: #fff;
+  box-shadow: 0 6px 20px rgba(0,0,0,0.25);
+}
+
+/* Section headings */
+#dashboard-view h2, #employees-view h2 {
+  text-align: center;
+  font-weight: bold;
+  margin-bottom: 25px;
+  color: #ffffff;
+}
+
+/* 🔹 Summary cards with distinct colors */
+#summary-cards .card {
+  border-radius: 10px;
+  text-align: center;
+  font-weight: bold;
+  color: #fff;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.2);
+}
+
+.total-card {
+  background-color: #007bff; /* Blue */
+}
+
+.active-card {
+  background-color: #28a745; /* Green */
+}
+
+.inactive-card {
+  background-color: #dc3545; /* Red */
+}
+
+.departments-card {
+  background-color: #ffc107; /* Yellow */
+}
+
+/* Department breakdown table */
+#dept-breakdown {
+  background-color: #ffffff;
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+#dept-breakdown th {
+  background-color: #2a5298;
+  color: #fff;
+}
+
+#dept-breakdown td {
+  color: #333;
+}
+
+/* Recent employees list */
+#recent-employees .list-group-item {
+  background-color: #ffffff;
+  color: #2a5298;
+  font-weight: 500;
+}
+
+/* Employee table */
+#employee-table {
+  background-color: #ffffff;
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+#employee-table th {
+  background-color: #2a5298;
+  color: #fff;
+}
+
+#employee-table td {
+  color: #333;
+}
+
+/* Action buttons */
+.view-btn {
+  background-color: #17a2b8;
+  color: #fff;
+}
+
+.edit-btn {
+  background-color: #ffc107;
+  color: #fff;
+}
+
+.delete-btn {
+  background-color: #dc3545;
+  color: #fff;
+}
