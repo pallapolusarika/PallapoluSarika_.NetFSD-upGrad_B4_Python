@@ -1,0 +1,39 @@
+﻿@model List<ContactManagementApp.Models.ContactInfo>
+
+<h2>All Contacts</h2>
+
+<a asp-action="AddContact">Add New Contact</a>
+
+<table border="1">
+    <tr>
+        <th>ID</th>
+        <th>Name</th>
+        <th>Company</th>
+        <th>Email</th>
+        <th>Mobile</th>
+        <th>Designation</th>
+    </tr>
+
+    @foreach (var c in Model)
+    {
+        <tr>
+            <td>@c.ContactId</td>
+            <td>@c.FirstName @c.LastName</td>
+            <td>@c.CompanyName</td>
+            <td>@c.EmailId</td>
+            <td>@c.MobileNo</td>
+            <td>@c.Designation</td>
+        </tr>
+    }
+</table>
+
+<hr />
+
+<form asp-action="GetContactById" method="get">
+    <input type="number" name="id" placeholder="Enter Contact ID" required />
+    <button type="submit">Search</button>
+</form>@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}

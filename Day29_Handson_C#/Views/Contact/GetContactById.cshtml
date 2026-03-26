@@ -1,0 +1,23 @@
+﻿@model ContactManagementApp.Models.ContactInfo
+
+<h2>Contact Details</h2>
+
+@if (Model == null)
+{
+    <p style="color:red;">Contact not found</p>
+}
+else
+{
+    <p>ID: @Model.ContactId</p>
+    <p>Name: @Model.FirstName @Model.LastName</p>
+    <p>Company: @Model.CompanyName</p>
+    <p>Email: @Model.EmailId</p>
+    <p>Mobile: @Model.MobileNo</p>
+    <p>Designation: @Model.Designation</p>
+}
+
+<a asp-action="ShowContacts">Back</a>@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
