@@ -1,0 +1,17 @@
+﻿@model D30_ProductDIApp.Models.Product
+
+<h2>Add Product</h2>
+
+<form asp-action="Create" asp-controller="Product" method="post">
+    
+    <label>Id:</label>
+    <input asp-for="Id" /><br />
+
+    <label>Name:</label>
+    <input asp-for="Name" /><br />
+
+    <label>Price:</label>
+    <input asp-for="Price" /><br />
+
+    <button type="submit">Add Product</button>
+</form>

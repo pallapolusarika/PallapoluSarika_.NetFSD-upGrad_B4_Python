@@ -1,0 +1,27 @@
+﻿@model List<D30_ProductDIApp.Models.Product>
+
+<h2>Product List</h2>
+
+<a href="/Product/Create">Add New Product</a>
+
+<table border="1">
+    <tr>
+        <th>ID</th>
+        <th>Name</th>
+        <th>Price</th>
+        <th>Actions</th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.Id</td>
+            <td>@item.Name</td>
+            <td>@item.Price</td>
+            <td>
+                <a href="/Product/Details/@item.Id">Details</a> |
+                <a href="/Product/Delete/@item.Id">Delete</a>
+            </td>
+        </tr>
+    }
+</table>
