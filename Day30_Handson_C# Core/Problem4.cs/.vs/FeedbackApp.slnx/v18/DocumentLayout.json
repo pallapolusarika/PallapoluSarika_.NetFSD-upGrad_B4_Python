@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rishi\\source\\repos\\FeedbackApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{058FA76B-C936-B8B4-1883-E76B22B6E647}|FeedbackApp.csproj|c:\\users\\rishi\\source\\repos\\feedbackapp\\views\\feedback\\form.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{058FA76B-C936-B8B4-1883-E76B22B6E647}|FeedbackApp.csproj|solutionrelative:views\\feedback\\form.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{058FA76B-C936-B8B4-1883-E76B22B6E647}|FeedbackApp.csproj|c:\\users\\rishi\\source\\repos\\feedbackapp\\controllers\\feedbackcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{058FA76B-C936-B8B4-1883-E76B22B6E647}|FeedbackApp.csproj|solutionrelative:controllers\\feedbackcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{058FA76B-C936-B8B4-1883-E76B22B6E647}|FeedbackApp.csproj|c:\\users\\rishi\\source\\repos\\feedbackapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{058FA76B-C936-B8B4-1883-E76B22B6E647}|FeedbackApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form.cshtml",
+              "DocumentMoniker": "C:\\Users\\rishi\\source\\repos\\FeedbackApp\\Views\\Feedback\\Form.cshtml",
+              "RelativeDocumentMoniker": "Views\\Feedback\\Form.cshtml",
+              "ToolTip": "C:\\Users\\rishi\\source\\repos\\FeedbackApp\\Views\\Feedback\\Form.cshtml",
+              "RelativeToolTip": "Views\\Feedback\\Form.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAIwBgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-02T04:54:14.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rishi\\source\\repos\\FeedbackApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\rishi\\source\\repos\\FeedbackApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T04:38:58.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FeedbackController.cs",
+              "DocumentMoniker": "C:\\Users\\rishi\\source\\repos\\FeedbackApp\\Controllers\\FeedbackController.cs",
+              "RelativeDocumentMoniker": "Controllers\\FeedbackController.cs",
+              "ToolTip": "C:\\Users\\rishi\\source\\repos\\FeedbackApp\\Controllers\\FeedbackController.cs",
+              "RelativeToolTip": "Controllers\\FeedbackController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T04:38:33.336Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

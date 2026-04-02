@@ -1,0 +1,22 @@
+﻿@{
+    Layout = null;
+}
+
+<h2>Simple Calculator</h2>
+
+<form method="post" action="/calculator/add">
+    <label>Number 1:</label><br />
+    <input type="number" name="num1" /><br /><br />
+
+    <label>Number 2:</label><br />
+    <input type="number" name="num2" /><br /><br />
+
+    <button type="submit">Add</button>
+</form>
+
+<br />
+
+@if (ViewData["Result"] != null)
+{
+    <h3>Result: @ViewData["Result"]</h3>
+}
