@@ -1,0 +1,15 @@
+﻿@model ContactInfo
+
+<h2>Add Contact</h2>
+
+<form method="post">
+    Id: <input asp-for="ContactId" /><br />
+    First Name: <input asp-for="FirstName" /><br />
+    Last Name: <input asp-for="LastName" /><br />
+    Company: <input asp-for="CompanyName" /><br />
+    Email: <input asp-for="EmailId" /><br />
+    Mobile: <input asp-for="MobileNo" /><br />
+    Designation: <input asp-for="Designation" /><br />
+
+    <button type="submit">Add</button>
+</form>
