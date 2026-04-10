@@ -1,0 +1,245 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rishi\\source\\repos\\ContactManagementSystem_API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FF45CE4E-A424-298E-3589-E6B618D41E79}|ContactManagement.API\\ContactManagement.API.csproj|c:\\users\\rishi\\source\\repos\\contactmanagementsystem_api\\contactmanagement.api\\controllers\\contactscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF45CE4E-A424-298E-3589-E6B618D41E79}|ContactManagement.API\\ContactManagement.API.csproj|solutionrelative:contactmanagement.api\\controllers\\contactscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF45CE4E-A424-298E-3589-E6B618D41E79}|ContactManagement.API\\ContactManagement.API.csproj|c:\\users\\rishi\\source\\repos\\contactmanagementsystem_api\\contactmanagement.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF45CE4E-A424-298E-3589-E6B618D41E79}|ContactManagement.API\\ContactManagement.API.csproj|solutionrelative:contactmanagement.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF45CE4E-A424-298E-3589-E6B618D41E79}|ContactManagement.API\\ContactManagement.API.csproj|c:\\users\\rishi\\source\\repos\\contactmanagementsystem_api\\contactmanagement.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF45CE4E-A424-298E-3589-E6B618D41E79}|ContactManagement.API\\ContactManagement.API.csproj|solutionrelative:contactmanagement.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF45CE4E-A424-298E-3589-E6B618D41E79}|ContactManagement.API\\ContactManagement.API.csproj|c:\\users\\rishi\\source\\repos\\contactmanagementsystem_api\\contactmanagement.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF45CE4E-A424-298E-3589-E6B618D41E79}|ContactManagement.API\\ContactManagement.API.csproj|solutionrelative:contactmanagement.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91AFC22F-A692-B61E-E266-CD8310CECDFA}|ContactManagement.DAL\\ContactManagement.DAL.csproj|c:\\users\\rishi\\source\\repos\\contactmanagementsystem_api\\contactmanagement.dal\\migrations\\20260407112251_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91AFC22F-A692-B61E-E266-CD8310CECDFA}|ContactManagement.DAL\\ContactManagement.DAL.csproj|solutionrelative:contactmanagement.dal\\migrations\\20260407112251_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91AFC22F-A692-B61E-E266-CD8310CECDFA}|ContactManagement.DAL\\ContactManagement.DAL.csproj|c:\\users\\rishi\\source\\repos\\contactmanagementsystem_api\\contactmanagement.dal\\models\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91AFC22F-A692-B61E-E266-CD8310CECDFA}|ContactManagement.DAL\\ContactManagement.DAL.csproj|solutionrelative:contactmanagement.dal\\models\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91AFC22F-A692-B61E-E266-CD8310CECDFA}|ContactManagement.DAL\\ContactManagement.DAL.csproj|c:\\users\\rishi\\source\\repos\\contactmanagementsystem_api\\contactmanagement.dal\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91AFC22F-A692-B61E-E266-CD8310CECDFA}|ContactManagement.DAL\\ContactManagement.DAL.csproj|solutionrelative:contactmanagement.dal\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF45CE4E-A424-298E-3589-E6B618D41E79}|ContactManagement.API\\ContactManagement.API.csproj|c:\\users\\rishi\\source\\repos\\contactmanagementsystem_api\\contactmanagement.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FF45CE4E-A424-298E-3589-E6B618D41E79}|ContactManagement.API\\ContactManagement.API.csproj|solutionrelative:contactmanagement.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91AFC22F-A692-B61E-E266-CD8310CECDFA}|ContactManagement.DAL\\ContactManagement.DAL.csproj|c:\\users\\rishi\\source\\repos\\contactmanagementsystem_api\\contactmanagement.dal\\models\\contactinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91AFC22F-A692-B61E-E266-CD8310CECDFA}|ContactManagement.DAL\\ContactManagement.DAL.csproj|solutionrelative:contactmanagement.dal\\models\\contactinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91AFC22F-A692-B61E-E266-CD8310CECDFA}|ContactManagement.DAL\\ContactManagement.DAL.csproj|c:\\users\\rishi\\source\\repos\\contactmanagementsystem_api\\contactmanagement.dal\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91AFC22F-A692-B61E-E266-CD8310CECDFA}|ContactManagement.DAL\\ContactManagement.DAL.csproj|solutionrelative:contactmanagement.dal\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91AFC22F-A692-B61E-E266-CD8310CECDFA}|ContactManagement.DAL\\ContactManagement.DAL.csproj|c:\\users\\rishi\\source\\repos\\contactmanagementsystem_api\\contactmanagement.dal\\dbcontext\\contactdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91AFC22F-A692-B61E-E266-CD8310CECDFA}|ContactManagement.DAL\\ContactManagement.DAL.csproj|solutionrelative:contactmanagement.dal\\dbcontext\\contactdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91AFC22F-A692-B61E-E266-CD8310CECDFA}|ContactManagement.DAL\\ContactManagement.DAL.csproj|c:\\users\\rishi\\source\\repos\\contactmanagementsystem_api\\contactmanagement.dal\\repository\\contactrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91AFC22F-A692-B61E-E266-CD8310CECDFA}|ContactManagement.DAL\\ContactManagement.DAL.csproj|solutionrelative:contactmanagement.dal\\repository\\contactrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91AFC22F-A692-B61E-E266-CD8310CECDFA}|ContactManagement.DAL\\ContactManagement.DAL.csproj|c:\\users\\rishi\\source\\repos\\contactmanagementsystem_api\\contactmanagement.dal\\repository\\icontactrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91AFC22F-A692-B61E-E266-CD8310CECDFA}|ContactManagement.DAL\\ContactManagement.DAL.csproj|solutionrelative:contactmanagement.dal\\repository\\icontactrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91AFC22F-A692-B61E-E266-CD8310CECDFA}|ContactManagement.DAL\\ContactManagement.DAL.csproj|c:\\users\\rishi\\source\\repos\\contactmanagementsystem_api\\contactmanagement.dal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91AFC22F-A692-B61E-E266-CD8310CECDFA}|ContactManagement.DAL\\ContactManagement.DAL.csproj|solutionrelative:contactmanagement.dal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\rishi\\source\\repos\\ContactManagementSystem_API\\ContactManagement.API\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "ContactManagement.API\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\rishi\\source\\repos\\ContactManagementSystem_API\\ContactManagement.API\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "ContactManagement.API\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T12:02:58.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ContactsController.cs",
+              "DocumentMoniker": "C:\\Users\\rishi\\source\\repos\\ContactManagementSystem_API\\ContactManagement.API\\Controllers\\ContactsController.cs",
+              "RelativeDocumentMoniker": "ContactManagement.API\\Controllers\\ContactsController.cs",
+              "ToolTip": "C:\\Users\\rishi\\source\\repos\\ContactManagementSystem_API\\ContactManagement.API\\Controllers\\ContactsController.cs",
+              "RelativeToolTip": "ContactManagement.API\\Controllers\\ContactsController.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAwwBAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T11:55:51.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20260407112251_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\rishi\\source\\repos\\ContactManagementSystem_API\\ContactManagement.DAL\\Migrations\\20260407112251_InitialCreate.cs",
+              "RelativeDocumentMoniker": "ContactManagement.DAL\\Migrations\\20260407112251_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\rishi\\source\\repos\\ContactManagementSystem_API\\ContactManagement.DAL\\Migrations\\20260407112251_InitialCreate.cs",
+              "RelativeToolTip": "ContactManagement.DAL\\Migrations\\20260407112251_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T11:22:51.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Company.cs",
+              "DocumentMoniker": "C:\\Users\\rishi\\source\\repos\\ContactManagementSystem_API\\ContactManagement.DAL\\Models\\Company.cs",
+              "RelativeDocumentMoniker": "ContactManagement.DAL\\Models\\Company.cs",
+              "ToolTip": "C:\\Users\\rishi\\source\\repos\\ContactManagementSystem_API\\ContactManagement.DAL\\Models\\Company.cs",
+              "RelativeToolTip": "ContactManagement.DAL\\Models\\Company.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T11:04:55.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\rishi\\source\\repos\\ContactManagementSystem_API\\ContactManagement.DAL\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "ContactManagement.DAL\\Models\\Department.cs",
+              "ToolTip": "C:\\Users\\rishi\\source\\repos\\ContactManagementSystem_API\\ContactManagement.DAL\\Models\\Department.cs",
+              "RelativeToolTip": "ContactManagement.DAL\\Models\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T11:05:53.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\rishi\\source\\repos\\ContactManagementSystem_API\\ContactManagement.API\\appsettings.json",
+              "RelativeDocumentMoniker": "ContactManagement.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\rishi\\source\\repos\\ContactManagementSystem_API\\ContactManagement.API\\appsettings.json",
+              "RelativeToolTip": "ContactManagement.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-07T11:12:50.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rishi\\source\\repos\\ContactManagementSystem_API\\ContactManagement.API\\Program.cs",
+              "RelativeDocumentMoniker": "ContactManagement.API\\Program.cs",
+              "ToolTip": "C:\\Users\\rishi\\source\\repos\\ContactManagementSystem_API\\ContactManagement.API\\Program.cs",
+              "RelativeToolTip": "ContactManagement.API\\Program.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAIwFsAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T11:14:02.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\rishi\\source\\repos\\ContactManagementSystem_API\\ContactManagement.API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "ContactManagement.API\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\rishi\\source\\repos\\ContactManagementSystem_API\\ContactManagement.API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "ContactManagement.API\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T11:28:58.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ContactInfo.cs",
+              "DocumentMoniker": "C:\\Users\\rishi\\source\\repos\\ContactManagementSystem_API\\ContactManagement.DAL\\Models\\ContactInfo.cs",
+              "RelativeDocumentMoniker": "ContactManagement.DAL\\Models\\ContactInfo.cs",
+              "ToolTip": "C:\\Users\\rishi\\source\\repos\\ContactManagementSystem_API\\ContactManagement.DAL\\Models\\ContactInfo.cs",
+              "RelativeToolTip": "ContactManagement.DAL\\Models\\ContactInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T11:03:34.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\rishi\\source\\repos\\ContactManagementSystem_API\\ContactManagement.DAL\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "ContactManagement.DAL\\Models\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\rishi\\source\\repos\\ContactManagementSystem_API\\ContactManagement.DAL\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "ContactManagement.DAL\\Models\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T11:06:36.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ContactDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\rishi\\source\\repos\\ContactManagementSystem_API\\ContactManagement.DAL\\DbContext\\ContactDbContext.cs",
+              "RelativeDocumentMoniker": "ContactManagement.DAL\\DbContext\\ContactDbContext.cs",
+              "ToolTip": "C:\\Users\\rishi\\source\\repos\\ContactManagementSystem_API\\ContactManagement.DAL\\DbContext\\ContactDbContext.cs",
+              "RelativeToolTip": "ContactManagement.DAL\\DbContext\\ContactDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T11:09:53.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ContactRepository.cs",
+              "DocumentMoniker": "C:\\Users\\rishi\\source\\repos\\ContactManagementSystem_API\\ContactManagement.DAL\\Repository\\ContactRepository.cs",
+              "RelativeDocumentMoniker": "ContactManagement.DAL\\Repository\\ContactRepository.cs",
+              "ToolTip": "C:\\Users\\rishi\\source\\repos\\ContactManagementSystem_API\\ContactManagement.DAL\\Repository\\ContactRepository.cs",
+              "RelativeToolTip": "ContactManagement.DAL\\Repository\\ContactRepository.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwDUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T11:11:52.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IContactRepository.cs",
+              "DocumentMoniker": "C:\\Users\\rishi\\source\\repos\\ContactManagementSystem_API\\ContactManagement.DAL\\Repository\\IContactRepository.cs",
+              "RelativeDocumentMoniker": "ContactManagement.DAL\\Repository\\IContactRepository.cs",
+              "ToolTip": "C:\\Users\\rishi\\source\\repos\\ContactManagementSystem_API\\ContactManagement.DAL\\Repository\\IContactRepository.cs",
+              "RelativeToolTip": "ContactManagement.DAL\\Repository\\IContactRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T11:11:23.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\rishi\\source\\repos\\ContactManagementSystem_API\\ContactManagement.DAL\\Class1.cs",
+              "RelativeDocumentMoniker": "ContactManagement.DAL\\Class1.cs",
+              "ToolTip": "C:\\Users\\rishi\\source\\repos\\ContactManagementSystem_API\\ContactManagement.DAL\\Class1.cs",
+              "RelativeToolTip": "ContactManagement.DAL\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T10:56:45.725Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+﻿@{
+    ViewData["Title"] = "Dashboard";
+}
+
+<h2>Employee Dashboard</h2>
+
+<h4>Total Employees: @ViewBag.TotalEmployees</h4>
+
+<h4>Highest Paid Employee:</h4>
+@if (ViewBag.HighestPaid != null)
+{
+    <p>
+        Name: @ViewBag.HighestPaid.Name <br />
+        Salary: @ViewBag.HighestPaid.Salary
+    </p>
+}
+
+<h4>Average Salary per Department</h4>
+<table class="table">
+    <tr>
+        <th>Department</th>
+        <th>Average Salary</th>
+    </tr>
+
+    @foreach (var item in ViewBag.AvgSalary)
+    {
+        <tr>
+            <td>@item.Department</td>
+            <td>@item.AverageSalary</td>
+        </tr>
+    }
+</table>
+
+<h4>Employees Count by Department</h4>
+<table class="table">
+    <tr>
+        <th>Department</th>
+        <th>Count</th>
+    </tr>
+
+    @foreach (var item in ViewBag.Grouped)
+    {
+        <tr>
+            <td>@item.Department</td>
+            <td>@item.Count</td>
+        </tr>
+    }
+</table>

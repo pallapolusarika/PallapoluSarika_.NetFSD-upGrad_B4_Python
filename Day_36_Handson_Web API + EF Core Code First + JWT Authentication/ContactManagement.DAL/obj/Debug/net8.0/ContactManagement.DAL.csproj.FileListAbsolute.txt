@@ -1,0 +1,14 @@
+C:\Users\rishi\source\repos\ContactManagementSystem_API\ContactManagement.DAL\bin\Debug\net8.0\ContactManagement.DAL.deps.json
+C:\Users\rishi\source\repos\ContactManagementSystem_API\ContactManagement.DAL\bin\Debug\net8.0\ContactManagement.DAL.runtimeconfig.json
+C:\Users\rishi\source\repos\ContactManagementSystem_API\ContactManagement.DAL\bin\Debug\net8.0\ContactManagement.DAL.dll
+C:\Users\rishi\source\repos\ContactManagementSystem_API\ContactManagement.DAL\bin\Debug\net8.0\ContactManagement.DAL.pdb
+C:\Users\rishi\source\repos\ContactManagementSystem_API\ContactManagement.DAL\obj\Debug\net8.0\ContactManagement.DAL.csproj.AssemblyReference.cache
+C:\Users\rishi\source\repos\ContactManagementSystem_API\ContactManagement.DAL\obj\Debug\net8.0\ContactManagement.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rishi\source\repos\ContactManagementSystem_API\ContactManagement.DAL\obj\Debug\net8.0\ContactManagement.DAL.AssemblyInfoInputs.cache
+C:\Users\rishi\source\repos\ContactManagementSystem_API\ContactManagement.DAL\obj\Debug\net8.0\ContactManagement.DAL.AssemblyInfo.cs
+C:\Users\rishi\source\repos\ContactManagementSystem_API\ContactManagement.DAL\obj\Debug\net8.0\ContactManagement.DAL.csproj.CoreCompileInputs.cache
+C:\Users\rishi\source\repos\ContactManagementSystem_API\ContactManagement.DAL\obj\Debug\net8.0\ContactManagement.DAL.dll
+C:\Users\rishi\source\repos\ContactManagementSystem_API\ContactManagement.DAL\obj\Debug\net8.0\refint\ContactManagement.DAL.dll
+C:\Users\rishi\source\repos\ContactManagementSystem_API\ContactManagement.DAL\obj\Debug\net8.0\ContactManagement.DAL.pdb
+C:\Users\rishi\source\repos\ContactManagementSystem_API\ContactManagement.DAL\obj\Debug\net8.0\ContactManagement.DAL.genruntimeconfig.cache
+C:\Users\rishi\source\repos\ContactManagementSystem_API\ContactManagement.DAL\obj\Debug\net8.0\ref\ContactManagement.DAL.dll
