@@ -1,0 +1,14 @@
+C:\Users\rishi\source\repos\EmployeeManagementApp\EmployeeManagementApp\bin\Debug\net8.0\EmployeeManagementApp.exe
+C:\Users\rishi\source\repos\EmployeeManagementApp\EmployeeManagementApp\bin\Debug\net8.0\EmployeeManagementApp.deps.json
+C:\Users\rishi\source\repos\EmployeeManagementApp\EmployeeManagementApp\bin\Debug\net8.0\EmployeeManagementApp.runtimeconfig.json
+C:\Users\rishi\source\repos\EmployeeManagementApp\EmployeeManagementApp\bin\Debug\net8.0\EmployeeManagementApp.dll
+C:\Users\rishi\source\repos\EmployeeManagementApp\EmployeeManagementApp\bin\Debug\net8.0\EmployeeManagementApp.pdb
+C:\Users\rishi\source\repos\EmployeeManagementApp\EmployeeManagementApp\obj\Debug\net8.0\EmployeeManagementApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rishi\source\repos\EmployeeManagementApp\EmployeeManagementApp\obj\Debug\net8.0\EmployeeManagementApp.AssemblyInfoInputs.cache
+C:\Users\rishi\source\repos\EmployeeManagementApp\EmployeeManagementApp\obj\Debug\net8.0\EmployeeManagementApp.AssemblyInfo.cs
+C:\Users\rishi\source\repos\EmployeeManagementApp\EmployeeManagementApp\obj\Debug\net8.0\EmployeeManagementApp.csproj.CoreCompileInputs.cache
+C:\Users\rishi\source\repos\EmployeeManagementApp\EmployeeManagementApp\obj\Debug\net8.0\EmployeeManagementApp.dll
+C:\Users\rishi\source\repos\EmployeeManagementApp\EmployeeManagementApp\obj\Debug\net8.0\refint\EmployeeManagementApp.dll
+C:\Users\rishi\source\repos\EmployeeManagementApp\EmployeeManagementApp\obj\Debug\net8.0\EmployeeManagementApp.pdb
+C:\Users\rishi\source\repos\EmployeeManagementApp\EmployeeManagementApp\obj\Debug\net8.0\EmployeeManagementApp.genruntimeconfig.cache
+C:\Users\rishi\source\repos\EmployeeManagementApp\EmployeeManagementApp\obj\Debug\net8.0\ref\EmployeeManagementApp.dll

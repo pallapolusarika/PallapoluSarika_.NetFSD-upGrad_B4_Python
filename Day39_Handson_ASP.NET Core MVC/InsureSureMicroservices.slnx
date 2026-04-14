@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="ClaimsService/ClaimsService.csproj" />
+  <Project Path="CustomerService/CustomerService.csproj" />
+  <Project Path="IdentityService/IdentityService.csproj" />
+  <Project Path="NotificationService/NotificationService.csproj" />
+  <Project Path="PaymentService/PaymentService.csproj" />
+  <Project Path="PolicyService/PolicyService.csproj" />
+</Solution>

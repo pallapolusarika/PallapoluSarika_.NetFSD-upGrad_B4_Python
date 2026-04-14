@@ -1,0 +1,549 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rishi\\source\\repos\\InsureSureMicroservices\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A234FC94-AA51-A558-AC74-0D69EA0D971A}|IdentityService\\IdentityService.csproj|c:\\users\\rishi\\source\\repos\\insuresuremicroservices\\identityservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A234FC94-AA51-A558-AC74-0D69EA0D971A}|IdentityService\\IdentityService.csproj|solutionrelative:identityservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rishi\\source\\repos\\InsureSureMicroservices\\PolicyService\\Migrations\\20260414112521_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PolicyService\\Migrations\\20260414112521_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A234FC94-AA51-A558-AC74-0D69EA0D971A}|IdentityService\\IdentityService.csproj|c:\\users\\rishi\\source\\repos\\insuresuremicroservices\\identityservice\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A234FC94-AA51-A558-AC74-0D69EA0D971A}|IdentityService\\IdentityService.csproj|solutionrelative:identityservice\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A234FC94-AA51-A558-AC74-0D69EA0D971A}|IdentityService\\IdentityService.csproj|c:\\users\\rishi\\source\\repos\\insuresuremicroservices\\identityservice\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A234FC94-AA51-A558-AC74-0D69EA0D971A}|IdentityService\\IdentityService.csproj|solutionrelative:identityservice\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A234FC94-AA51-A558-AC74-0D69EA0D971A}|IdentityService\\IdentityService.csproj|c:\\users\\rishi\\source\\repos\\insuresuremicroservices\\identityservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A234FC94-AA51-A558-AC74-0D69EA0D971A}|IdentityService\\IdentityService.csproj|solutionrelative:identityservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A234FC94-AA51-A558-AC74-0D69EA0D971A}|IdentityService\\IdentityService.csproj|c:\\users\\rishi\\source\\repos\\insuresuremicroservices\\identityservice\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A234FC94-AA51-A558-AC74-0D69EA0D971A}|IdentityService\\IdentityService.csproj|solutionrelative:identityservice\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A234FC94-AA51-A558-AC74-0D69EA0D971A}|IdentityService\\IdentityService.csproj|c:\\users\\rishi\\source\\repos\\insuresuremicroservices\\identityservice\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A234FC94-AA51-A558-AC74-0D69EA0D971A}|IdentityService\\IdentityService.csproj|solutionrelative:identityservice\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF9FD0F0-B9C2-54C6-189B-77AA3D46F4C2}|NotificationService\\NotificationService.csproj|c:\\users\\rishi\\source\\repos\\insuresuremicroservices\\notificationservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF9FD0F0-B9C2-54C6-189B-77AA3D46F4C2}|NotificationService\\NotificationService.csproj|solutionrelative:notificationservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF9FD0F0-B9C2-54C6-189B-77AA3D46F4C2}|NotificationService\\NotificationService.csproj|c:\\users\\rishi\\source\\repos\\insuresuremicroservices\\notificationservice\\controllers\\notificationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF9FD0F0-B9C2-54C6-189B-77AA3D46F4C2}|NotificationService\\NotificationService.csproj|solutionrelative:notificationservice\\controllers\\notificationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF9FD0F0-B9C2-54C6-189B-77AA3D46F4C2}|NotificationService\\NotificationService.csproj|c:\\users\\rishi\\source\\repos\\insuresuremicroservices\\notificationservice\\models\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF9FD0F0-B9C2-54C6-189B-77AA3D46F4C2}|NotificationService\\NotificationService.csproj|solutionrelative:notificationservice\\models\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DDA886F-7022-E231-A5D2-8BDF0FBB44D6}|PaymentService\\PaymentService.csproj|c:\\users\\rishi\\source\\repos\\insuresuremicroservices\\paymentservice\\migrations\\20260414124808_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DDA886F-7022-E231-A5D2-8BDF0FBB44D6}|PaymentService\\PaymentService.csproj|solutionrelative:paymentservice\\migrations\\20260414124808_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DDA886F-7022-E231-A5D2-8BDF0FBB44D6}|PaymentService\\PaymentService.csproj|c:\\users\\rishi\\source\\repos\\insuresuremicroservices\\paymentservice\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DDA886F-7022-E231-A5D2-8BDF0FBB44D6}|PaymentService\\PaymentService.csproj|solutionrelative:paymentservice\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DDA886F-7022-E231-A5D2-8BDF0FBB44D6}|PaymentService\\PaymentService.csproj|c:\\users\\rishi\\source\\repos\\insuresuremicroservices\\paymentservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7DDA886F-7022-E231-A5D2-8BDF0FBB44D6}|PaymentService\\PaymentService.csproj|solutionrelative:paymentservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DDA886F-7022-E231-A5D2-8BDF0FBB44D6}|PaymentService\\PaymentService.csproj|c:\\users\\rishi\\source\\repos\\insuresuremicroservices\\paymentservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DDA886F-7022-E231-A5D2-8BDF0FBB44D6}|PaymentService\\PaymentService.csproj|solutionrelative:paymentservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DDA886F-7022-E231-A5D2-8BDF0FBB44D6}|PaymentService\\PaymentService.csproj|c:\\users\\rishi\\source\\repos\\insuresuremicroservices\\paymentservice\\data\\paymentdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DDA886F-7022-E231-A5D2-8BDF0FBB44D6}|PaymentService\\PaymentService.csproj|solutionrelative:paymentservice\\data\\paymentdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DDA886F-7022-E231-A5D2-8BDF0FBB44D6}|PaymentService\\PaymentService.csproj|c:\\users\\rishi\\source\\repos\\insuresuremicroservices\\paymentservice\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DDA886F-7022-E231-A5D2-8BDF0FBB44D6}|PaymentService\\PaymentService.csproj|solutionrelative:paymentservice\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3728C33-00CB-7241-1E00-FB1D3D4ADE90}|ClaimsService\\ClaimsService.csproj|c:\\users\\rishi\\source\\repos\\insuresuremicroservices\\claimsservice\\migrations\\20260414113254_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3728C33-00CB-7241-1E00-FB1D3D4ADE90}|ClaimsService\\ClaimsService.csproj|solutionrelative:claimsservice\\migrations\\20260414113254_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3728C33-00CB-7241-1E00-FB1D3D4ADE90}|ClaimsService\\ClaimsService.csproj|c:\\users\\rishi\\source\\repos\\insuresuremicroservices\\claimsservice\\controllers\\claimscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3728C33-00CB-7241-1E00-FB1D3D4ADE90}|ClaimsService\\ClaimsService.csproj|solutionrelative:claimsservice\\controllers\\claimscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3728C33-00CB-7241-1E00-FB1D3D4ADE90}|ClaimsService\\ClaimsService.csproj|c:\\users\\rishi\\source\\repos\\insuresuremicroservices\\claimsservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D3728C33-00CB-7241-1E00-FB1D3D4ADE90}|ClaimsService\\ClaimsService.csproj|solutionrelative:claimsservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3728C33-00CB-7241-1E00-FB1D3D4ADE90}|ClaimsService\\ClaimsService.csproj|c:\\users\\rishi\\source\\repos\\insuresuremicroservices\\claimsservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3728C33-00CB-7241-1E00-FB1D3D4ADE90}|ClaimsService\\ClaimsService.csproj|solutionrelative:claimsservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3728C33-00CB-7241-1E00-FB1D3D4ADE90}|ClaimsService\\ClaimsService.csproj|c:\\users\\rishi\\source\\repos\\insuresuremicroservices\\claimsservice\\data\\claimsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3728C33-00CB-7241-1E00-FB1D3D4ADE90}|ClaimsService\\ClaimsService.csproj|solutionrelative:claimsservice\\data\\claimsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3728C33-00CB-7241-1E00-FB1D3D4ADE90}|ClaimsService\\ClaimsService.csproj|c:\\users\\rishi\\source\\repos\\insuresuremicroservices\\claimsservice\\models\\claim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3728C33-00CB-7241-1E00-FB1D3D4ADE90}|ClaimsService\\ClaimsService.csproj|solutionrelative:claimsservice\\models\\claim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0376ABBC-B0CA-D498-83E2-33A2F4F6182A}|PolicyService\\PolicyService.csproj|c:\\users\\rishi\\source\\repos\\insuresuremicroservices\\policyservice\\migrations\\20260414112710_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0376ABBC-B0CA-D498-83E2-33A2F4F6182A}|PolicyService\\PolicyService.csproj|solutionrelative:policyservice\\migrations\\20260414112710_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0376ABBC-B0CA-D498-83E2-33A2F4F6182A}|PolicyService\\PolicyService.csproj|c:\\users\\rishi\\source\\repos\\insuresuremicroservices\\policyservice\\controllers\\policycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0376ABBC-B0CA-D498-83E2-33A2F4F6182A}|PolicyService\\PolicyService.csproj|solutionrelative:policyservice\\controllers\\policycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0376ABBC-B0CA-D498-83E2-33A2F4F6182A}|PolicyService\\PolicyService.csproj|c:\\users\\rishi\\source\\repos\\insuresuremicroservices\\policyservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0376ABBC-B0CA-D498-83E2-33A2F4F6182A}|PolicyService\\PolicyService.csproj|solutionrelative:policyservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0376ABBC-B0CA-D498-83E2-33A2F4F6182A}|PolicyService\\PolicyService.csproj|c:\\users\\rishi\\source\\repos\\insuresuremicroservices\\policyservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0376ABBC-B0CA-D498-83E2-33A2F4F6182A}|PolicyService\\PolicyService.csproj|solutionrelative:policyservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0376ABBC-B0CA-D498-83E2-33A2F4F6182A}|PolicyService\\PolicyService.csproj|c:\\users\\rishi\\source\\repos\\insuresuremicroservices\\policyservice\\data\\policydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0376ABBC-B0CA-D498-83E2-33A2F4F6182A}|PolicyService\\PolicyService.csproj|solutionrelative:policyservice\\data\\policydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0376ABBC-B0CA-D498-83E2-33A2F4F6182A}|PolicyService\\PolicyService.csproj|c:\\users\\rishi\\source\\repos\\insuresuremicroservices\\policyservice\\data\\models\\policy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0376ABBC-B0CA-D498-83E2-33A2F4F6182A}|PolicyService\\PolicyService.csproj|solutionrelative:policyservice\\data\\models\\policy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8E1EF95-431B-25F3-1DD5-ECA73FFFCCD1}|CustomerService\\CustomerService.csproj|c:\\users\\rishi\\source\\repos\\insuresuremicroservices\\customerservice\\migrations\\20260414111623_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8E1EF95-431B-25F3-1DD5-ECA73FFFCCD1}|CustomerService\\CustomerService.csproj|solutionrelative:customerservice\\migrations\\20260414111623_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8E1EF95-431B-25F3-1DD5-ECA73FFFCCD1}|CustomerService\\CustomerService.csproj|c:\\users\\rishi\\source\\repos\\insuresuremicroservices\\customerservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C8E1EF95-431B-25F3-1DD5-ECA73FFFCCD1}|CustomerService\\CustomerService.csproj|solutionrelative:customerservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8E1EF95-431B-25F3-1DD5-ECA73FFFCCD1}|CustomerService\\CustomerService.csproj|c:\\users\\rishi\\source\\repos\\insuresuremicroservices\\customerservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8E1EF95-431B-25F3-1DD5-ECA73FFFCCD1}|CustomerService\\CustomerService.csproj|solutionrelative:customerservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8E1EF95-431B-25F3-1DD5-ECA73FFFCCD1}|CustomerService\\CustomerService.csproj|c:\\users\\rishi\\source\\repos\\insuresuremicroservices\\customerservice\\data\\customerdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8E1EF95-431B-25F3-1DD5-ECA73FFFCCD1}|CustomerService\\CustomerService.csproj|solutionrelative:customerservice\\data\\customerdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8E1EF95-431B-25F3-1DD5-ECA73FFFCCD1}|CustomerService\\CustomerService.csproj|c:\\users\\rishi\\source\\repos\\insuresuremicroservices\\customerservice\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8E1EF95-431B-25F3-1DD5-ECA73FFFCCD1}|CustomerService\\CustomerService.csproj|solutionrelative:customerservice\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rishi\\source\\repos\\InsureSureMicroservices\\IdentityService\\Program.cs",
+              "RelativeDocumentMoniker": "IdentityService\\Program.cs",
+              "ToolTip": "C:\\Users\\rishi\\source\\repos\\InsureSureMicroservices\\IdentityService\\Program.cs",
+              "RelativeToolTip": "IdentityService\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwBsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T13:03:11.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\rishi\\source\\repos\\InsureSureMicroservices\\IdentityService\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "IdentityService\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\rishi\\source\\repos\\InsureSureMicroservices\\IdentityService\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "IdentityService\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAYwDYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T13:02:39.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "libman.json",
+              "DocumentMoniker": "C:\\Users\\rishi\\source\\repos\\InsureSureMicroservices\\IdentityService\\libman.json",
+              "RelativeDocumentMoniker": "IdentityService\\libman.json",
+              "ToolTip": "C:\\Users\\rishi\\source\\repos\\InsureSureMicroservices\\IdentityService\\libman.json",
+              "RelativeToolTip": "IdentityService\\libman.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-14T12:59:07.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\rishi\\source\\repos\\InsureSureMicroservices\\IdentityService\\appsettings.json",
+              "RelativeDocumentMoniker": "IdentityService\\appsettings.json",
+              "ToolTip": "C:\\Users\\rishi\\source\\repos\\InsureSureMicroservices\\IdentityService\\appsettings.json",
+              "RelativeToolTip": "IdentityService\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-14T12:58:49.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "C:\\Users\\rishi\\source\\repos\\InsureSureMicroservices\\IdentityService\\Models\\LoginModel.cs",
+              "RelativeDocumentMoniker": "IdentityService\\Models\\LoginModel.cs",
+              "ToolTip": "C:\\Users\\rishi\\source\\repos\\InsureSureMicroservices\\IdentityService\\Models\\LoginModel.cs",
+              "RelativeToolTip": "IdentityService\\Models\\LoginModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T12:58:25.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\rishi\\source\\repos\\InsureSureMicroservices\\IdentityService\\Models\\User.cs",
+              "RelativeDocumentMoniker": "IdentityService\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\rishi\\source\\repos\\InsureSureMicroservices\\IdentityService\\Models\\User.cs",
+              "RelativeToolTip": "IdentityService\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T12:57:50.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rishi\\source\\repos\\InsureSureMicroservices\\NotificationService\\Program.cs",
+              "RelativeDocumentMoniker": "NotificationService\\Program.cs",
+              "ToolTip": "C:\\Users\\rishi\\source\\repos\\InsureSureMicroservices\\NotificationService\\Program.cs",
+              "RelativeToolTip": "NotificationService\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T12:53:01.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "NotificationController.cs",
+              "DocumentMoniker": "C:\\Users\\rishi\\source\\repos\\InsureSureMicroservices\\NotificationService\\Controllers\\NotificationController.cs",
+              "RelativeDocumentMoniker": "NotificationService\\Controllers\\NotificationController.cs",
+              "ToolTip": "C:\\Users\\rishi\\source\\repos\\InsureSureMicroservices\\NotificationService\\Controllers\\NotificationController.cs",
+              "RelativeToolTip": "NotificationService\\Controllers\\NotificationController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T12:52:40.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Notification.cs",
+              "DocumentMoniker": "C:\\Users\\rishi\\source\\repos\\InsureSureMicroservices\\NotificationService\\Models\\Notification.cs",
+              "RelativeDocumentMoniker": "NotificationService\\Models\\Notification.cs",
+              "ToolTip": "C:\\Users\\rishi\\source\\repos\\InsureSureMicroservices\\NotificationService\\Models\\Notification.cs",
+              "RelativeToolTip": "NotificationService\\Models\\Notification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T12:51:58.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20260414124808_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\rishi\\source\\repos\\InsureSureMicroservices\\PaymentService\\Migrations\\20260414124808_InitialCreate.cs",
+              "RelativeDocumentMoniker": "PaymentService\\Migrations\\20260414124808_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\rishi\\source\\repos\\InsureSureMicroservices\\PaymentService\\Migrations\\20260414124808_InitialCreate.cs",
+              "RelativeToolTip": "PaymentService\\Migrations\\20260414124808_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T12:48:08.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PaymentController.cs",
+              "DocumentMoniker": "C:\\Users\\rishi\\source\\repos\\InsureSureMicroservices\\PaymentService\\Controllers\\PaymentController.cs",
+              "RelativeDocumentMoniker": "PaymentService\\Controllers\\PaymentController.cs",
+              "ToolTip": "C:\\Users\\rishi\\source\\repos\\InsureSureMicroservices\\PaymentService\\Controllers\\PaymentController.cs",
+              "RelativeToolTip": "PaymentService\\Controllers\\PaymentController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAYwCMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T12:47:21.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\rishi\\source\\repos\\InsureSureMicroservices\\PaymentService\\appsettings.json",
+              "RelativeDocumentMoniker": "PaymentService\\appsettings.json",
+              "ToolTip": "C:\\Users\\rishi\\source\\repos\\InsureSureMicroservices\\PaymentService\\appsettings.json",
+              "RelativeToolTip": "PaymentService\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-14T12:46:49.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rishi\\source\\repos\\InsureSureMicroservices\\PaymentService\\Program.cs",
+              "RelativeDocumentMoniker": "PaymentService\\Program.cs",
+              "ToolTip": "C:\\Users\\rishi\\source\\repos\\InsureSureMicroservices\\PaymentService\\Program.cs",
+              "RelativeToolTip": "PaymentService\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T12:46:34.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PaymentDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\rishi\\source\\repos\\InsureSureMicroservices\\PaymentService\\Data\\PaymentDbContext.cs",
+              "RelativeDocumentMoniker": "PaymentService\\Data\\PaymentDbContext.cs",
+              "ToolTip": "C:\\Users\\rishi\\source\\repos\\InsureSureMicroservices\\PaymentService\\Data\\PaymentDbContext.cs",
+              "RelativeToolTip": "PaymentService\\Data\\PaymentDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T12:42:49.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "C:\\Users\\rishi\\source\\repos\\InsureSureMicroservices\\PaymentService\\Models\\Payment.cs",
+              "RelativeDocumentMoniker": "PaymentService\\Models\\Payment.cs",
+              "ToolTip": "C:\\Users\\rishi\\source\\repos\\InsureSureMicroservices\\PaymentService\\Models\\Payment.cs",
+              "RelativeToolTip": "PaymentService\\Models\\Payment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T12:42:20.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20260414113254_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\rishi\\source\\repos\\InsureSureMicroservices\\ClaimsService\\Migrations\\20260414113254_InitialCreate.cs",
+              "RelativeDocumentMoniker": "ClaimsService\\Migrations\\20260414113254_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\rishi\\source\\repos\\InsureSureMicroservices\\ClaimsService\\Migrations\\20260414113254_InitialCreate.cs",
+              "RelativeToolTip": "ClaimsService\\Migrations\\20260414113254_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T11:32:54.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ClaimsController.cs",
+              "DocumentMoniker": "C:\\Users\\rishi\\source\\repos\\InsureSureMicroservices\\ClaimsService\\Controllers\\ClaimsController.cs",
+              "RelativeDocumentMoniker": "ClaimsService\\Controllers\\ClaimsController.cs",
+              "ToolTip": "C:\\Users\\rishi\\source\\repos\\InsureSureMicroservices\\ClaimsService\\Controllers\\ClaimsController.cs",
+              "RelativeToolTip": "ClaimsService\\Controllers\\ClaimsController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwBwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T11:31:50.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\rishi\\source\\repos\\InsureSureMicroservices\\ClaimsService\\appsettings.json",
+              "RelativeDocumentMoniker": "ClaimsService\\appsettings.json",
+              "ToolTip": "C:\\Users\\rishi\\source\\repos\\InsureSureMicroservices\\ClaimsService\\appsettings.json",
+              "RelativeToolTip": "ClaimsService\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-14T11:31:20.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rishi\\source\\repos\\InsureSureMicroservices\\ClaimsService\\Program.cs",
+              "RelativeDocumentMoniker": "ClaimsService\\Program.cs",
+              "ToolTip": "C:\\Users\\rishi\\source\\repos\\InsureSureMicroservices\\ClaimsService\\Program.cs",
+              "RelativeToolTip": "ClaimsService\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T11:31:06.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ClaimsDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\rishi\\source\\repos\\InsureSureMicroservices\\ClaimsService\\Data\\ClaimsDbContext.cs",
+              "RelativeDocumentMoniker": "ClaimsService\\Data\\ClaimsDbContext.cs",
+              "ToolTip": "C:\\Users\\rishi\\source\\repos\\InsureSureMicroservices\\ClaimsService\\Data\\ClaimsDbContext.cs",
+              "RelativeToolTip": "ClaimsService\\Data\\ClaimsDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T11:29:35.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Claim.cs",
+              "DocumentMoniker": "C:\\Users\\rishi\\source\\repos\\InsureSureMicroservices\\ClaimsService\\Models\\Claim.cs",
+              "RelativeDocumentMoniker": "ClaimsService\\Models\\Claim.cs",
+              "ToolTip": "C:\\Users\\rishi\\source\\repos\\InsureSureMicroservices\\ClaimsService\\Models\\Claim.cs",
+              "RelativeToolTip": "ClaimsService\\Models\\Claim.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T11:28:57.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "20260414112710_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\rishi\\source\\repos\\InsureSureMicroservices\\PolicyService\\Migrations\\20260414112710_InitialCreate.cs",
+              "RelativeDocumentMoniker": "PolicyService\\Migrations\\20260414112710_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\rishi\\source\\repos\\InsureSureMicroservices\\PolicyService\\Migrations\\20260414112710_InitialCreate.cs",
+              "RelativeToolTip": "PolicyService\\Migrations\\20260414112710_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T11:27:10.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20260414112521_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\rishi\\source\\repos\\InsureSureMicroservices\\PolicyService\\Migrations\\20260414112521_InitialCreate.cs",
+              "RelativeDocumentMoniker": "PolicyService\\Migrations\\20260414112521_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\rishi\\source\\repos\\InsureSureMicroservices\\PolicyService\\Migrations\\20260414112521_InitialCreate.cs",
+              "RelativeToolTip": "PolicyService\\Migrations\\20260414112521_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T11:25:21.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "PolicyController.cs",
+              "DocumentMoniker": "C:\\Users\\rishi\\source\\repos\\InsureSureMicroservices\\PolicyService\\Controllers\\PolicyController.cs",
+              "RelativeDocumentMoniker": "PolicyService\\Controllers\\PolicyController.cs",
+              "ToolTip": "C:\\Users\\rishi\\source\\repos\\InsureSureMicroservices\\PolicyService\\Controllers\\PolicyController.cs",
+              "RelativeToolTip": "PolicyService\\Controllers\\PolicyController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T11:24:07.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\rishi\\source\\repos\\InsureSureMicroservices\\PolicyService\\appsettings.json",
+              "RelativeDocumentMoniker": "PolicyService\\appsettings.json",
+              "ToolTip": "C:\\Users\\rishi\\source\\repos\\InsureSureMicroservices\\PolicyService\\appsettings.json",
+              "RelativeToolTip": "PolicyService\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-14T11:23:31.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rishi\\source\\repos\\InsureSureMicroservices\\PolicyService\\Program.cs",
+              "RelativeDocumentMoniker": "PolicyService\\Program.cs",
+              "ToolTip": "C:\\Users\\rishi\\source\\repos\\InsureSureMicroservices\\PolicyService\\Program.cs",
+              "RelativeToolTip": "PolicyService\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T11:23:10.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "PolicyDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\rishi\\source\\repos\\InsureSureMicroservices\\PolicyService\\Data\\PolicyDbContext.cs",
+              "RelativeDocumentMoniker": "PolicyService\\Data\\PolicyDbContext.cs",
+              "ToolTip": "C:\\Users\\rishi\\source\\repos\\InsureSureMicroservices\\PolicyService\\Data\\PolicyDbContext.cs",
+              "RelativeToolTip": "PolicyService\\Data\\PolicyDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T11:22:38.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Policy.cs",
+              "DocumentMoniker": "C:\\Users\\rishi\\source\\repos\\InsureSureMicroservices\\PolicyService\\Data\\Models\\Policy.cs",
+              "RelativeDocumentMoniker": "PolicyService\\Data\\Models\\Policy.cs",
+              "ToolTip": "C:\\Users\\rishi\\source\\repos\\InsureSureMicroservices\\PolicyService\\Data\\Models\\Policy.cs",
+              "RelativeToolTip": "PolicyService\\Data\\Models\\Policy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T11:17:21.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "20260414111623_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\rishi\\source\\repos\\InsureSureMicroservices\\CustomerService\\Migrations\\20260414111623_InitialCreate.cs",
+              "RelativeDocumentMoniker": "CustomerService\\Migrations\\20260414111623_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\rishi\\source\\repos\\InsureSureMicroservices\\CustomerService\\Migrations\\20260414111623_InitialCreate.cs",
+              "RelativeToolTip": "CustomerService\\Migrations\\20260414111623_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T11:16:23.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\rishi\\source\\repos\\InsureSureMicroservices\\CustomerService\\appsettings.json",
+              "RelativeDocumentMoniker": "CustomerService\\appsettings.json",
+              "ToolTip": "C:\\Users\\rishi\\source\\repos\\InsureSureMicroservices\\CustomerService\\appsettings.json",
+              "RelativeToolTip": "CustomerService\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-14T11:14:36.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rishi\\source\\repos\\InsureSureMicroservices\\CustomerService\\Program.cs",
+              "RelativeDocumentMoniker": "CustomerService\\Program.cs",
+              "ToolTip": "C:\\Users\\rishi\\source\\repos\\InsureSureMicroservices\\CustomerService\\Program.cs",
+              "RelativeToolTip": "CustomerService\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T11:14:01.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "CustomerDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\rishi\\source\\repos\\InsureSureMicroservices\\CustomerService\\Data\\CustomerDbContext.cs",
+              "RelativeDocumentMoniker": "CustomerService\\Data\\CustomerDbContext.cs",
+              "ToolTip": "C:\\Users\\rishi\\source\\repos\\InsureSureMicroservices\\CustomerService\\Data\\CustomerDbContext.cs",
+              "RelativeToolTip": "CustomerService\\Data\\CustomerDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T11:11:14.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\rishi\\source\\repos\\InsureSureMicroservices\\CustomerService\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "CustomerService\\Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\rishi\\source\\repos\\InsureSureMicroservices\\CustomerService\\Models\\Customer.cs",
+              "RelativeToolTip": "CustomerService\\Models\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T11:10:00.347Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
