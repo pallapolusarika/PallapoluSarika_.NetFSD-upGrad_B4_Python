@@ -1,0 +1,299 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HOME\\source\\repos\\ContactManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{999DC572-A773-96BC-C368-B9FEE7F4A614}|AppUILayer\\AppUILayer.csproj|c:\\users\\home\\source\\repos\\contactmanagementsystem\\appuilayer\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{999DC572-A773-96BC-C368-B9FEE7F4A614}|AppUILayer\\AppUILayer.csproj|solutionrelative:appuilayer\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HOME\\source\\repos\\DataAccessLayer\\Migrations\\20260414071122_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{999DC572-A773-96BC-C368-B9FEE7F4A614}|AppUILayer\\AppUILayer.csproj|c:\\users\\home\\source\\repos\\contactmanagementsystem\\appuilayer\\appuilayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{999DC572-A773-96BC-C368-B9FEE7F4A614}|AppUILayer\\AppUILayer.csproj|solutionrelative:appuilayer\\appuilayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{999DC572-A773-96BC-C368-B9FEE7F4A614}|AppUILayer\\AppUILayer.csproj|c:\\users\\home\\source\\repos\\contactmanagementsystem\\appuilayer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{999DC572-A773-96BC-C368-B9FEE7F4A614}|AppUILayer\\AppUILayer.csproj|solutionrelative:appuilayer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{183EBF06-D6D0-7DAA-A433-BA6599200109}|..\\DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\home\\source\\repos\\dataaccesslayer\\repository\\contactrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{999DC572-A773-96BC-C368-B9FEE7F4A614}|AppUILayer\\AppUILayer.csproj|c:\\users\\home\\source\\repos\\contactmanagementsystem\\appuilayer\\views\\contact\\editcontact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{999DC572-A773-96BC-C368-B9FEE7F4A614}|AppUILayer\\AppUILayer.csproj|solutionrelative:appuilayer\\views\\contact\\editcontact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{999DC572-A773-96BC-C368-B9FEE7F4A614}|AppUILayer\\AppUILayer.csproj|c:\\users\\home\\source\\repos\\contactmanagementsystem\\appuilayer\\views\\contact\\showcontacts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{999DC572-A773-96BC-C368-B9FEE7F4A614}|AppUILayer\\AppUILayer.csproj|solutionrelative:appuilayer\\views\\contact\\showcontacts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{183EBF06-D6D0-7DAA-A433-BA6599200109}|..\\DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\home\\source\\repos\\dataaccesslayer\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{183EBF06-D6D0-7DAA-A433-BA6599200109}|..\\DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\home\\source\\repos\\dataaccesslayer\\migrations\\20260414075519_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{183EBF06-D6D0-7DAA-A433-BA6599200109}|..\\DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\home\\source\\repos\\dataaccesslayer\\dataaccesslayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{999DC572-A773-96BC-C368-B9FEE7F4A614}|AppUILayer\\AppUILayer.csproj|c:\\users\\home\\source\\repos\\contactmanagementsystem\\appuilayer\\views\\contact\\addcontact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{999DC572-A773-96BC-C368-B9FEE7F4A614}|AppUILayer\\AppUILayer.csproj|solutionrelative:appuilayer\\views\\contact\\addcontact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{999DC572-A773-96BC-C368-B9FEE7F4A614}|AppUILayer\\AppUILayer.csproj|c:\\users\\home\\source\\repos\\contactmanagementsystem\\appuilayer\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{999DC572-A773-96BC-C368-B9FEE7F4A614}|AppUILayer\\AppUILayer.csproj|solutionrelative:appuilayer\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{999DC572-A773-96BC-C368-B9FEE7F4A614}|AppUILayer\\AppUILayer.csproj|c:\\users\\home\\source\\repos\\contactmanagementsystem\\appuilayer\\views\\contact\\getcontactbyid.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{999DC572-A773-96BC-C368-B9FEE7F4A614}|AppUILayer\\AppUILayer.csproj|solutionrelative:appuilayer\\views\\contact\\getcontactbyid.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{183EBF06-D6D0-7DAA-A433-BA6599200109}|..\\DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\home\\source\\repos\\dataaccesslayer\\repository\\icontactrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{183EBF06-D6D0-7DAA-A433-BA6599200109}|..\\DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\home\\source\\repos\\dataaccesslayer\\models\\contactinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{183EBF06-D6D0-7DAA-A433-BA6599200109}|..\\DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\home\\source\\repos\\dataaccesslayer\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{183EBF06-D6D0-7DAA-A433-BA6599200109}|..\\DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\home\\source\\repos\\dataaccesslayer\\models\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{183EBF06-D6D0-7DAA-A433-BA6599200109}|..\\DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\home\\source\\repos\\dataaccesslayer\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\source\\repos\\ContactManagementSystem\\AppUILayer\\Program.cs",
+              "RelativeDocumentMoniker": "AppUILayer\\Program.cs",
+              "ToolTip": "C:\\Users\\HOME\\source\\repos\\ContactManagementSystem\\AppUILayer\\Program.cs",
+              "RelativeToolTip": "AppUILayer\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBEAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T07:02:04.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ContactRepository.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\source\\repos\\DataAccessLayer\\Repository\\ContactRepository.cs",
+              "RelativeDocumentMoniker": "..\\DataAccessLayer\\Repository\\ContactRepository.cs",
+              "ToolTip": "C:\\Users\\HOME\\source\\repos\\DataAccessLayer\\Repository\\ContactRepository.cs",
+              "RelativeToolTip": "..\\DataAccessLayer\\Repository\\ContactRepository.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAApwBsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T06:59:23.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EditContact.cshtml",
+              "DocumentMoniker": "C:\\Users\\HOME\\source\\repos\\ContactManagementSystem\\AppUILayer\\Views\\Contact\\EditContact.cshtml",
+              "RelativeDocumentMoniker": "AppUILayer\\Views\\Contact\\EditContact.cshtml",
+              "ToolTip": "C:\\Users\\HOME\\source\\repos\\ContactManagementSystem\\AppUILayer\\Views\\Contact\\EditContact.cshtml",
+              "RelativeToolTip": "AppUILayer\\Views\\Contact\\EditContact.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAkwCcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-14T07:05:09.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ShowContacts.cshtml",
+              "DocumentMoniker": "C:\\Users\\HOME\\source\\repos\\ContactManagementSystem\\AppUILayer\\Views\\Contact\\ShowContacts.cshtml",
+              "RelativeDocumentMoniker": "AppUILayer\\Views\\Contact\\ShowContacts.cshtml",
+              "ToolTip": "C:\\Users\\HOME\\source\\repos\\ContactManagementSystem\\AppUILayer\\Views\\Contact\\ShowContacts.cshtml",
+              "RelativeToolTip": "AppUILayer\\Views\\Contact\\ShowContacts.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-14T07:05:54.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20260414071122_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\source\\repos\\DataAccessLayer\\Migrations\\20260414071122_InitialCreate.cs",
+              "RelativeDocumentMoniker": "..\\DataAccessLayer\\Migrations\\20260414071122_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\HOME\\source\\repos\\DataAccessLayer\\Migrations\\20260414071122_InitialCreate.cs",
+              "RelativeToolTip": "..\\DataAccessLayer\\Migrations\\20260414071122_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T07:11:22.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ContactController.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\source\\repos\\ContactManagementSystem\\AppUILayer\\Controllers\\ContactController.cs",
+              "RelativeDocumentMoniker": "AppUILayer\\Controllers\\ContactController.cs",
+              "ToolTip": "C:\\Users\\HOME\\source\\repos\\ContactManagementSystem\\AppUILayer\\Controllers\\ContactController.cs",
+              "RelativeToolTip": "AppUILayer\\Controllers\\ContactController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T07:02:54.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppUILayer.csproj",
+              "DocumentMoniker": "C:\\Users\\HOME\\source\\repos\\ContactManagementSystem\\AppUILayer\\AppUILayer.csproj",
+              "RelativeDocumentMoniker": "AppUILayer\\AppUILayer.csproj",
+              "ToolTip": "C:\\Users\\HOME\\source\\repos\\ContactManagementSystem\\AppUILayer\\AppUILayer.csproj",
+              "RelativeToolTip": "AppUILayer\\AppUILayer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-14T06:45:22.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\source\\repos\\DataAccessLayer\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "..\\DataAccessLayer\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\HOME\\source\\repos\\DataAccessLayer\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "..\\DataAccessLayer\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAkwCYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T06:56:28.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20260414075519_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\source\\repos\\DataAccessLayer\\Migrations\\20260414075519_InitialCreate.cs",
+              "RelativeDocumentMoniker": "..\\DataAccessLayer\\Migrations\\20260414075519_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\HOME\\source\\repos\\DataAccessLayer\\Migrations\\20260414075519_InitialCreate.cs",
+              "RelativeToolTip": "..\\DataAccessLayer\\Migrations\\20260414075519_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T07:55:20.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DataAccessLayer.csproj",
+              "DocumentMoniker": "C:\\Users\\HOME\\source\\repos\\DataAccessLayer\\DataAccessLayer.csproj",
+              "RelativeDocumentMoniker": "..\\DataAccessLayer\\DataAccessLayer.csproj",
+              "ToolTip": "C:\\Users\\HOME\\source\\repos\\DataAccessLayer\\DataAccessLayer.csproj",
+              "RelativeToolTip": "..\\DataAccessLayer\\DataAccessLayer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-14T06:37:35.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AddContact.cshtml",
+              "DocumentMoniker": "C:\\Users\\HOME\\source\\repos\\ContactManagementSystem\\AppUILayer\\Views\\Contact\\AddContact.cshtml",
+              "RelativeDocumentMoniker": "AppUILayer\\Views\\Contact\\AddContact.cshtml",
+              "ToolTip": "C:\\Users\\HOME\\source\\repos\\ContactManagementSystem\\AppUILayer\\Views\\Contact\\AddContact.cshtml",
+              "RelativeToolTip": "AppUILayer\\Views\\Contact\\AddContact.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAcwCUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-14T07:04:27.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\HOME\\source\\repos\\ContactManagementSystem\\AppUILayer\\appsettings.json",
+              "RelativeDocumentMoniker": "AppUILayer\\appsettings.json",
+              "ToolTip": "C:\\Users\\HOME\\source\\repos\\ContactManagementSystem\\AppUILayer\\appsettings.json",
+              "RelativeToolTip": "AppUILayer\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-14T07:01:27.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GetContactById.cshtml",
+              "DocumentMoniker": "C:\\Users\\HOME\\source\\repos\\ContactManagementSystem\\AppUILayer\\Views\\Contact\\GetContactById.cshtml",
+              "RelativeDocumentMoniker": "AppUILayer\\Views\\Contact\\GetContactById.cshtml",
+              "ToolTip": "C:\\Users\\HOME\\source\\repos\\ContactManagementSystem\\AppUILayer\\Views\\Contact\\GetContactById.cshtml",
+              "RelativeToolTip": "AppUILayer\\Views\\Contact\\GetContactById.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-14T07:06:35.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IContactRepository.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\source\\repos\\DataAccessLayer\\Repository\\IContactRepository.cs",
+              "RelativeDocumentMoniker": "..\\DataAccessLayer\\Repository\\IContactRepository.cs",
+              "ToolTip": "C:\\Users\\HOME\\source\\repos\\DataAccessLayer\\Repository\\IContactRepository.cs",
+              "RelativeToolTip": "..\\DataAccessLayer\\Repository\\IContactRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T06:57:21.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ContactInfo.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\source\\repos\\DataAccessLayer\\Models\\ContactInfo.cs",
+              "RelativeDocumentMoniker": "..\\DataAccessLayer\\Models\\ContactInfo.cs",
+              "ToolTip": "C:\\Users\\HOME\\source\\repos\\DataAccessLayer\\Models\\ContactInfo.cs",
+              "RelativeToolTip": "..\\DataAccessLayer\\Models\\ContactInfo.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA1wCMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T06:55:16.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\source\\repos\\DataAccessLayer\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "..\\DataAccessLayer\\Models\\Department.cs",
+              "ToolTip": "C:\\Users\\HOME\\source\\repos\\DataAccessLayer\\Models\\Department.cs",
+              "RelativeToolTip": "..\\DataAccessLayer\\Models\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T06:54:36.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Company.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\source\\repos\\DataAccessLayer\\Models\\Company.cs",
+              "RelativeDocumentMoniker": "..\\DataAccessLayer\\Models\\Company.cs",
+              "ToolTip": "C:\\Users\\HOME\\source\\repos\\DataAccessLayer\\Models\\Company.cs",
+              "RelativeToolTip": "..\\DataAccessLayer\\Models\\Company.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T06:53:37.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\source\\repos\\DataAccessLayer\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\DataAccessLayer\\Class1.cs",
+              "ToolTip": "C:\\Users\\HOME\\source\\repos\\DataAccessLayer\\Class1.cs",
+              "RelativeToolTip": "..\\DataAccessLayer\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T06:35:25.524Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
