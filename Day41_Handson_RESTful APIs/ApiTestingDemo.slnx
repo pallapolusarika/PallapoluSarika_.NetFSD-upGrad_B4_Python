@@ -1,0 +1,14 @@
+<Solution>
+  <Folder Name="/Data/">
+    <File Path="AppDbContext.cs" />
+  </Folder>
+  <Folder Name="/Models/">
+    <File Path="Employee.cs" />
+    <File Path="LoginModel.cs" />
+  </Folder>
+  <Folder Name="/Services/">
+    <File Path="IJwtService.cs" />
+    <File Path="JwtService.cs" />
+  </Folder>
+  <Project Path="ApiTestingDemo.csproj" />
+</Solution>
